@@ -1,0 +1,27 @@
+{
+    "train_batch_size": "auto",
+    "gradient_accumulation_steps": 8,
+    "optimizer": {
+      "type": "Adam",
+      "params": {
+        "lr": 0.0001,
+        "betas": [0.9, 0.999],
+        "eps": 1e-8
+      }
+    },
+    "fp16": {
+      "enabled": false
+    },
+    "bf16": {
+      "enabled": true
+    },
+    "zero_optimization": {
+      "stage": 2,
+      "allgather_partitions": true,
+      "reduce_scatter": true,
+      "contiguous_gradients": true
+    },
+    "logging": {
+      "steps_per_print": 1000
+    }
+  }

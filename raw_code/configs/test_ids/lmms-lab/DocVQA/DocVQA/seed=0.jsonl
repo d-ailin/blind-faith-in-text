@@ -1,0 +1,2000 @@
+{"question_id": "6001/['table/list', 'layout']"}
+{"question_id": "41449/['table/list']"}
+{"question_id": "64278/['table/list']"}
+{"question_id": "60930/['layout']"}
+{"question_id": "458/['free_text']"}
+{"question_id": "5964/['handwritten', 'form']"}
+{"question_id": "51161/['layout']"}
+{"question_id": "55212/['table/list']"}
+{"question_id": "37351/['form']"}
+{"question_id": "50788/['handwritten', 'table/list']"}
+{"question_id": "555/['layout']"}
+{"question_id": "64564/['table/list']"}
+{"question_id": "58671/['layout']"}
+{"question_id": "56294/['free_text']"}
+{"question_id": "50837/['table/list']"}
+{"question_id": "62771/['Image/Photo']"}
+{"question_id": "65335/['table/list']"}
+{"question_id": "50869/['layout']"}
+{"question_id": "59500/['free_text']"}
+{"question_id": "51327/['handwritten', 'layout']"}
+{"question_id": "47564/['layout']"}
+{"question_id": "65361/['table/list']"}
+{"question_id": "6798/['layout']"}
+{"question_id": "5667/['form']"}
+{"question_id": "64927/['free_text', 'layout']"}
+{"question_id": "56086/['layout', 'Image/Photo']"}
+{"question_id": "6867/['layout']"}
+{"question_id": "62502/['table/list']"}
+{"question_id": "61245/['table/list', 'layout']"}
+{"question_id": "52530/['free_text']"}
+{"question_id": "36908/['form']"}
+{"question_id": "62409/['table/list']"}
+{"question_id": "56606/['layout']"}
+{"question_id": "51356/['layout']"}
+{"question_id": "2209/['table/list']"}
+{"question_id": "64760/['figure/diagram']"}
+{"question_id": "46442/['layout']"}
+{"question_id": "50761/['Yes/No']"}
+{"question_id": "55082/['free_text']"}
+{"question_id": "52305/['table/list']"}
+{"question_id": "54376/['form', 'layout']"}
+{"question_id": "59816/['layout']"}
+{"question_id": "57903/['table/list']"}
+{"question_id": "45578/['layout']"}
+{"question_id": "49595/['table/list']"}
+{"question_id": "5270/['form']"}
+{"question_id": "58802/['form', 'layout']"}
+{"question_id": "37467/['table/list']"}
+{"question_id": "36590/['table/list']"}
+{"question_id": "63294/['table/list']"}
+{"question_id": "60497/['table/list']"}
+{"question_id": "62000/['layout']"}
+{"question_id": "5586/['handwritten', 'form']"}
+{"question_id": "64135/['form']"}
+{"question_id": "50883/['layout']"}
+{"question_id": "25724/['layout']"}
+{"question_id": "6991/['form']"}
+{"question_id": "61236/['layout']"}
+{"question_id": "57250/['layout']"}
+{"question_id": "49362/['layout']"}
+{"question_id": "42298/['table/list']"}
+{"question_id": "49530/['layout']"}
+{"question_id": "42166/['figure/diagram', 'layout']"}
+{"question_id": "5216/['form']"}
+{"question_id": "39040/['table/list']"}
+{"question_id": "37489/['table/list']"}
+{"question_id": "63702/['table/list']"}
+{"question_id": "47575/['table/list']"}
+{"question_id": "6967/['form']"}
+{"question_id": "18982/['form']"}
+{"question_id": "58754/['layout']"}
+{"question_id": "62110/['free_text']"}
+{"question_id": "57387/['form']"}
+{"question_id": "18557/['form']"}
+{"question_id": "64154/['layout']"}
+{"question_id": "64143/['table/list']"}
+{"question_id": "868/['layout']"}
+{"question_id": "36831/['layout']"}
+{"question_id": "3064/['layout']"}
+{"question_id": "63831/['figure/diagram']"}
+{"question_id": "5651/['form']"}
+{"question_id": "47517/['form']"}
+{"question_id": "62514/['form']"}
+{"question_id": "54974/['table/list']"}
+{"question_id": "1960/['table/list']"}
+{"question_id": "4962/['handwritten', 'form']"}
+{"question_id": "51605/['layout']"}
+{"question_id": "26657/['layout']"}
+{"question_id": "42037/['table/list']"}
+{"question_id": "56951/['table/list']"}
+{"question_id": "43244/['layout']"}
+{"question_id": "59994/['layout']"}
+{"question_id": "320/['layout']"}
+{"question_id": "64211/['table/list']"}
+{"question_id": "5470/['layout']"}
+{"question_id": "63586/['layout']"}
+{"question_id": "25733/['form']"}
+{"question_id": "56422/['form']"}
+{"question_id": "37229/['free_text']"}
+{"question_id": "63876/['table/list']"}
+{"question_id": "59921/['free_text', 'layout']"}
+{"question_id": "1166/['table/list']"}
+{"question_id": "59849/['layout']"}
+{"question_id": "61374/['free_text', 'others']"}
+{"question_id": "5490/['layout', 'others']"}
+{"question_id": "57062/['free_text', 'layout']"}
+{"question_id": "64691/['free_text']"}
+{"question_id": "44854/['figure/diagram', 'layout']"}
+{"question_id": "65338/['table/list']"}
+{"question_id": "5621/['form']"}
+{"question_id": "4915/['handwritten', 'form']"}
+{"question_id": "60597/['layout']"}
+{"question_id": "4745/['handwritten', 'form']"}
+{"question_id": "65150/['form']"}
+{"question_id": "54989/['layout']"}
+{"question_id": "1015/['layout']"}
+{"question_id": "50207/['layout']"}
+{"question_id": "65040/['table/list']"}
+{"question_id": "6813/['form', 'table/list']"}
+{"question_id": "5616/['handwritten', 'form']"}
+{"question_id": "58377/['free_text']"}
+{"question_id": "59612/['handwritten', 'form']"}
+{"question_id": "63841/['handwritten', 'table/list']"}
+{"question_id": "52183/['table/list']"}
+{"question_id": "64273/['table/list']"}
+{"question_id": "62498/['layout', 'others']"}
+{"question_id": "64939/['table/list']"}
+{"question_id": "55221/['layout']"}
+{"question_id": "46123/['table/list']"}
+{"question_id": "57844/['form']"}
+{"question_id": "58584/['layout']"}
+{"question_id": "62499/['layout']"}
+{"question_id": "55030/['table/list']"}
+{"question_id": "407/['table/list']"}
+{"question_id": "45718/['form']"}
+{"question_id": "64985/['figure/diagram', 'layout']"}
+{"question_id": "3392/['layout']"}
+{"question_id": "64506/['handwritten', 'layout']"}
+{"question_id": "64481/['table/list']"}
+{"question_id": "43082/['form']"}
+{"question_id": "57207/['table/list']"}
+{"question_id": "59856/['form']"}
+{"question_id": "2189/['table/list']"}
+{"question_id": "7480/['layout']"}
+{"question_id": "59603/['free_text']"}
+{"question_id": "22076/['form']"}
+{"question_id": "21035/['table/list']"}
+{"question_id": "6351/['free_text', 'layout']"}
+{"question_id": "1165/['table/list']"}
+{"question_id": "41729/['form', 'layout']"}
+{"question_id": "61351/['free_text', 'form']"}
+{"question_id": "58499/['handwritten', 'form']"}
+{"question_id": "21048/['free_text']"}
+{"question_id": "57826/['table/list']"}
+{"question_id": "50529/['layout']"}
+{"question_id": "59594/['form']"}
+{"question_id": "52538/['free_text', 'layout']"}
+{"question_id": "59813/['layout']"}
+{"question_id": "28065/['table/list']"}
+{"question_id": "63013/['free_text', 'table/list']"}
+{"question_id": "26594/['handwritten', 'form']"}
+{"question_id": "25721/['layout']"}
+{"question_id": "3388/['layout']"}
+{"question_id": "26600/['handwritten', 'form']"}
+{"question_id": "51727/['layout']"}
+{"question_id": "46499/['table/list']"}
+{"question_id": "56912/['figure/diagram', 'layout']"}
+{"question_id": "63165/['handwritten', 'table/list']"}
+{"question_id": "60388/['table/list', 'layout']"}
+{"question_id": "1899/['figure/diagram']"}
+{"question_id": "64702/['layout']"}
+{"question_id": "52220/['table/list']"}
+{"question_id": "50880/['form']"}
+{"question_id": "45769/['table/list']"}
+{"question_id": "57550/['layout']"}
+{"question_id": "44784/['free_text', 'layout']"}
+{"question_id": "22511/['form']"}
+{"question_id": "49263/['free_text']"}
+{"question_id": "54859/['form']"}
+{"question_id": "62334/['layout']"}
+{"question_id": "62092/['table/list']"}
+{"question_id": "64138/['table/list']"}
+{"question_id": "62416/['table/list']"}
+{"question_id": "1623/['Yes/No', 'form']"}
+{"question_id": "60139/['layout']"}
+{"question_id": "3077/['table/list']"}
+{"question_id": "53606/['form']"}
+{"question_id": "25730/['form']"}
+{"question_id": "61401/['layout', 'others']"}
+{"question_id": "6851/['form']"}
+{"question_id": "59836/['table/list']"}
+{"question_id": "64304/['table/list']"}
+{"question_id": "51785/['layout']"}
+{"question_id": "64150/['table/list']"}
+{"question_id": "57144/['table/list']"}
+{"question_id": "56410/['figure/diagram']"}
+{"question_id": "56458/['handwritten', 'form']"}
+{"question_id": "5612/['free_text', 'layout']"}
+{"question_id": "47758/['layout']"}
+{"question_id": "62761/['Image/Photo']"}
+{"question_id": "285/['free_text']"}
+{"question_id": "58304/['figure/diagram']"}
+{"question_id": "39858/['table/list', 'others']"}
+{"question_id": "61158/['layout']"}
+{"question_id": "49121/['layout']"}
+{"question_id": "50122/['layout']"}
+{"question_id": "6010/['layout']"}
+{"question_id": "582/['free_text']"}
+{"question_id": "59291/['layout']"}
+{"question_id": "5937/['handwritten', 'form']"}
+{"question_id": "64334/['form']"}
+{"question_id": "1749/['free_text']"}
+{"question_id": "57807/['form']"}
+{"question_id": "59855/['free_text', 'others']"}
+{"question_id": "59438/['free_text']"}
+{"question_id": "5626/['table/list', 'layout']"}
+{"question_id": "59539/['table/list']"}
+{"question_id": "18838/['form']"}
+{"question_id": "50309/['handwritten', 'form']"}
+{"question_id": "28304/['layout']"}
+{"question_id": "51360/['free_text', 'layout']"}
+{"question_id": "51691/['free_text', 'others']"}
+{"question_id": "57887/['layout']"}
+{"question_id": "24437/['form']"}
+{"question_id": "56910/['table/list']"}
+{"question_id": "37234/['layout', 'others']"}
+{"question_id": "60808/['table/list']"}
+{"question_id": "62933/['layout']"}
+{"question_id": "38916/['table/list']"}
+{"question_id": "16801/['free_text']"}
+{"question_id": "10269/['layout']"}
+{"question_id": "54863/['table/list']"}
+{"question_id": "6357/['handwritten', 'form']"}
+{"question_id": "59837/['table/list']"}
+{"question_id": "47085/['free_text']"}
+{"question_id": "63686/['others']"}
+{"question_id": "47541/['layout']"}
+{"question_id": "45416/['free_text', 'layout']"}
+{"question_id": "1018/['layout']"}
+{"question_id": "50717/['form', 'layout']"}
+{"question_id": "65203/['form']"}
+{"question_id": "60746/['free_text', 'layout']"}
+{"question_id": "49400/['table/list']"}
+{"question_id": "40619/['form', 'layout']"}
+{"question_id": "51359/['layout']"}
+{"question_id": "36595/['table/list']"}
+{"question_id": "32949/['table/list']"}
+{"question_id": "56515/['layout']"}
+{"question_id": "62509/['layout']"}
+{"question_id": "50504/['table/list']"}
+{"question_id": "36844/['table/list']"}
+{"question_id": "60428/['handwritten', 'table/list', 'layout']"}
+{"question_id": "50789/['handwritten', 'table/list']"}
+{"question_id": "64485/['layout']"}
+{"question_id": "6816/['table/list']"}
+{"question_id": "5372/['figure/diagram', 'layout']"}
+{"question_id": "1693/['layout']"}
+{"question_id": "15007/['table/list']"}
+{"question_id": "49177/['table/list']"}
+{"question_id": "42102/['layout']"}
+{"question_id": "5250/['handwritten', 'table/list']"}
+{"question_id": "64228/['free_text']"}
+{"question_id": "59427/['layout']"}
+{"question_id": "57410/['layout']"}
+{"question_id": "55926/['free_text']"}
+{"question_id": "57373/['table/list']"}
+{"question_id": "22505/['form', 'layout']"}
+{"question_id": "57249/['layout']"}
+{"question_id": "5811/['handwritten', 'form']"}
+{"question_id": "1825/['free_text', 'others']"}
+{"question_id": "28308/['table/list']"}
+{"question_id": "57173/['table/list']"}
+{"question_id": "50768/['handwritten', 'form']"}
+{"question_id": "16999/['table/list']"}
+{"question_id": "44830/['figure/diagram', 'layout']"}
+{"question_id": "61434/['form']"}
+{"question_id": "38876/['table/list']"}
+{"question_id": "60861/['table/list']"}
+{"question_id": "47915/['layout']"}
+{"question_id": "46744/['table/list']"}
+{"question_id": "55466/['table/list']"}
+{"question_id": "46637/['form']"}
+{"question_id": "49393/['layout']"}
+{"question_id": "64989/['layout']"}
+{"question_id": "61135/['free_text']"}
+{"question_id": "59305/['free_text', 'others']"}
+{"question_id": "61648/['handwritten', 'layout']"}
+{"question_id": "59458/['table/list']"}
+{"question_id": "60877/['form', 'layout']"}
+{"question_id": "43659/['layout']"}
+{"question_id": "65310/['free_text', 'layout']"}
+{"question_id": "56449/['handwritten', 'form', 'layout']"}
+{"question_id": "5815/['handwritten', 'form']"}
+{"question_id": "57803/['table/list']"}
+{"question_id": "47071/['table/list']"}
+{"question_id": "5589/['handwritten', 'form']"}
+{"question_id": "45422/['layout', 'others']"}
+{"question_id": "64403/['table/list']"}
+{"question_id": "63051/['form']"}
+{"question_id": "63893/['table/list']"}
+{"question_id": "60486/['free_text']"}
+{"question_id": "61509/['layout']"}
+{"question_id": "43632/['figure/diagram']"}
+{"question_id": "9849/['free_text', 'others']"}
+{"question_id": "64465/['figure/diagram', 'table/list']"}
+{"question_id": "6820/['table/list']"}
+{"question_id": "57771/['free_text']"}
+{"question_id": "7017/['table/list']"}
+{"question_id": "49120/['layout']"}
+{"question_id": "62005/['free_text']"}
+{"question_id": "65182/['table/list']"}
+{"question_id": "57287/['form']"}
+{"question_id": "7405/['form']"}
+{"question_id": "58531/['free_text']"}
+{"question_id": "1955/['table/list']"}
+{"question_id": "53602/['layout']"}
+{"question_id": "57138/['layout']"}
+{"question_id": "56275/['table/list']"}
+{"question_id": "49398/['layout']"}
+{"question_id": "62504/['table/list']"}
+{"question_id": "62276/['layout']"}
+{"question_id": "58270/['table/list']"}
+{"question_id": "4619/['handwritten', 'form']"}
+{"question_id": "15325/['figure/diagram']"}
+{"question_id": "43761/['figure/diagram', 'layout']"}
+{"question_id": "58518/['table/list']"}
+{"question_id": "49369/['layout']"}
+{"question_id": "52222/['table/list']"}
+{"question_id": "784/['handwritten', 'layout']"}
+{"question_id": "28060/['table/list']"}
+{"question_id": "59466/['form']"}
+{"question_id": "50868/['figure/diagram']"}
+{"question_id": "51240/['layout']"}
+{"question_id": "56461/['handwritten', 'form']"}
+{"question_id": "59929/['table/list']"}
+{"question_id": "44962/['layout']"}
+{"question_id": "64172/['table/list', 'Image/Photo']"}
+{"question_id": "45480/['layout']"}
+{"question_id": "61781/['layout']"}
+{"question_id": "58310/['table/list']"}
+{"question_id": "63779/['table/list']"}
+{"question_id": "65399/['layout']"}
+{"question_id": "57198/['free_text']"}
+{"question_id": "64276/['table/list']"}
+{"question_id": "56373/['figure/diagram']"}
+{"question_id": "54265/['table/list', 'layout']"}
+{"question_id": "36944/['form']"}
+{"question_id": "55024/['layout']"}
+{"question_id": "63283/['table/list']"}
+{"question_id": "39094/['free_text', 'others']"}
+{"question_id": "36917/['table/list']"}
+{"question_id": "64675/['table/list']"}
+{"question_id": "5175/['layout']"}
+{"question_id": "58375/['layout']"}
+{"question_id": "50501/['layout']"}
+{"question_id": "47603/['form']"}
+{"question_id": "56468/['form']"}
+{"question_id": "49392/['table/list']"}
+{"question_id": "36907/['table/list']"}
+{"question_id": "8128/['form']"}
+{"question_id": "5159/['form']"}
+{"question_id": "56936/['table/list']"}
+{"question_id": "59022/['table/list', 'layout']"}
+{"question_id": "57028/['layout']"}
+{"question_id": "55953/['free_text']"}
+{"question_id": "52460/['layout']"}
+{"question_id": "50366/['table/list']"}
+{"question_id": "58296/['table/list']"}
+{"question_id": "64479/['table/list']"}
+{"question_id": "1013/['free_text']"}
+{"question_id": "47431/['form', 'layout']"}
+{"question_id": "18836/['handwritten', 'form']"}
+{"question_id": "56914/['free_text']"}
+{"question_id": "44831/['layout']"}
+{"question_id": "56855/['table/list']"}
+{"question_id": "15147/['table/list']"}
+{"question_id": "64470/['free_text']"}
+{"question_id": "46457/['table/list']"}
+{"question_id": "55208/['table/list']"}
+{"question_id": "54861/['form']"}
+{"question_id": "56401/['figure/diagram']"}
+{"question_id": "59875/['form', 'layout']"}
+{"question_id": "63769/['layout']"}
+{"question_id": "50290/['layout']"}
+{"question_id": "55441/['free_text']"}
+{"question_id": "6983/['form']"}
+{"question_id": "57791/['table/list']"}
+{"question_id": "57069/['layout']"}
+{"question_id": "47561/['table/list']"}
+{"question_id": "21036/['form', 'layout']"}
+{"question_id": "45406/['layout', 'others']"}
+{"question_id": "58776/['layout']"}
+{"question_id": "7000/['form']"}
+{"question_id": "26167/['layout']"}
+{"question_id": "58416/['form']"}
+{"question_id": "47827/['figure/diagram']"}
+{"question_id": "63597/['table/list']"}
+{"question_id": "55233/['table/list']"}
+{"question_id": "36598/['table/list']"}
+{"question_id": "59710/['free_text', 'layout']"}
+{"question_id": "39073/['Image/Photo']"}
+{"question_id": "52144/['layout']"}
+{"question_id": "4369/['Image/Photo']"}
+{"question_id": "51640/['form', 'layout']"}
+{"question_id": "63701/['table/list']"}
+{"question_id": "64635/['Image/Photo']"}
+{"question_id": "60499/['figure/diagram', 'layout']"}
+{"question_id": "64909/['free_text']"}
+{"question_id": "43806/['form']"}
+{"question_id": "6713/['table/list']"}
+{"question_id": "33005/['form']"}
+{"question_id": "11333/['form']"}
+{"question_id": "61765/['table/list']"}
+{"question_id": "32525/['layout']"}
+{"question_id": "64206/['layout']"}
+{"question_id": "24492/['layout']"}
+{"question_id": "50295/['layout']"}
+{"question_id": "63207/['layout', 'others']"}
+{"question_id": "59798/['layout']"}
+{"question_id": "49555/['figure/diagram']"}
+{"question_id": "63598/['layout']"}
+{"question_id": "61788/['layout']"}
+{"question_id": "15384/['table/list']"}
+{"question_id": "61241/['figure/diagram', 'layout']"}
+{"question_id": "49134/['layout']"}
+{"question_id": "25396/['free_text']"}
+{"question_id": "25682/['layout', 'others']"}
+{"question_id": "7006/['form']"}
+{"question_id": "51601/['handwritten', 'form', 'layout']"}
+{"question_id": "61549/['layout']"}
+{"question_id": "56688/['table/list']"}
+{"question_id": "46119/['table/list']"}
+{"question_id": "36496/['layout']"}
+{"question_id": "58449/['layout']"}
+{"question_id": "55114/['table/list']"}
+{"question_id": "63866/['table/list']"}
+{"question_id": "59476/['layout']"}
+{"question_id": "16789/['others']"}
+{"question_id": "54368/['layout']"}
+{"question_id": "49402/['table/list']"}
+{"question_id": "52637/['form']"}
+{"question_id": "56506/['table/list']"}
+{"question_id": "9295/['form']"}
+{"question_id": "59379/['free_text']"}
+{"question_id": "18872/['form']"}
+{"question_id": "24420/['form', 'table/list']"}
+{"question_id": "64984/['figure/diagram', 'layout']"}
+{"question_id": "62919/['free_text', 'layout']"}
+{"question_id": "55098/['table/list']"}
+{"question_id": "49366/['layout']"}
+{"question_id": "41715/['form']"}
+{"question_id": "893/['layout']"}
+{"question_id": "58619/['figure/diagram']"}
+{"question_id": "41807/['form']"}
+{"question_id": "38936/['layout']"}
+{"question_id": "58937/['layout']"}
+{"question_id": "54359/['table/list']"}
+{"question_id": "64929/['table/list']"}
+{"question_id": "57804/['form']"}
+{"question_id": "24560/['table/list']"}
+{"question_id": "63482/['table/list']"}
+{"question_id": "1020/['layout']"}
+{"question_id": "63203/['layout', 'others']"}
+{"question_id": "39856/['layout']"}
+{"question_id": "51713/['layout']"}
+{"question_id": "42301/['table/list']"}
+{"question_id": "8570/['form', 'table/list']"}
+{"question_id": "4473/['table/list']"}
+{"question_id": "59850/['free_text']"}
+{"question_id": "47973/['table/list']"}
+{"question_id": "65341/['table/list']"}
+{"question_id": "60070/['table/list']"}
+{"question_id": "63486/['layout']"}
+{"question_id": "788/['free_text']"}
+{"question_id": "61481/['form', 'table/list']"}
+{"question_id": "52622/['free_text']"}
+{"question_id": "18808/['form']"}
+{"question_id": "50790/['handwritten', 'table/list']"}
+{"question_id": "5865/['form']"}
+{"question_id": "56973/['table/list']"}
+{"question_id": "49323/['layout']"}
+{"question_id": "63593/['layout']"}
+{"question_id": "5388/['figure/diagram', 'layout']"}
+{"question_id": "5302/['form', 'layout']"}
+{"question_id": "55264/['layout']"}
+{"question_id": "25506/['form']"}
+{"question_id": "42565/['handwritten', 'form']"}
+{"question_id": "63327/['free_text']"}
+{"question_id": "50849/['layout', 'Image/Photo']"}
+{"question_id": "61299/['layout']"}
+{"question_id": "58700/['form']"}
+{"question_id": "63569/['table/list']"}
+{"question_id": "56799/['layout']"}
+{"question_id": "36275/['layout']"}
+{"question_id": "56516/['figure/diagram']"}
+{"question_id": "18508/['layout']"}
+{"question_id": "56453/['handwritten', 'form']"}
+{"question_id": "5177/['table/list']"}
+{"question_id": "397/['free_text']"}
+{"question_id": "22080/['free_text']"}
+{"question_id": "62377/['layout']"}
+{"question_id": "1959/['table/list']"}
+{"question_id": "46416/['free_text', 'table/list']"}
+{"question_id": "50468/['table/list']"}
+{"question_id": "46126/['table/list']"}
+{"question_id": "43077/['figure/diagram']"}
+{"question_id": "58426/['table/list']"}
+{"question_id": "62829/['table/list']"}
+{"question_id": "59814/['layout']"}
+{"question_id": "18603/['layout']"}
+{"question_id": "45814/['layout']"}
+{"question_id": "4980/['form', 'table/list']"}
+{"question_id": "57283/['table/list']"}
+{"question_id": "55252/['table/list']"}
+{"question_id": "6784/['layout']"}
+{"question_id": "59825/['layout']"}
+{"question_id": "62942/['layout']"}
+{"question_id": "58303/['figure/diagram']"}
+{"question_id": "50860/['handwritten', 'form']"}
+{"question_id": "55235/['table/list']"}
+{"question_id": "57987/['layout']"}
+{"question_id": "38997/['layout', 'others']"}
+{"question_id": "44808/['table/list', 'layout']"}
+{"question_id": "55339/['table/list']"}
+{"question_id": "63325/['free_text']"}
+{"question_id": "63839/['handwritten', 'table/list']"}
+{"question_id": "60011/['free_text']"}
+{"question_id": "37659/['form']"}
+{"question_id": "43120/['figure/diagram', 'layout']"}
+{"question_id": "54972/['table/list']"}
+{"question_id": "64366/['handwritten', 'form']"}
+{"question_id": "65114/['free_text']"}
+{"question_id": "51661/['layout']"}
+{"question_id": "5439/['free_text', 'layout']"}
+{"question_id": "55209/['layout']"}
+{"question_id": "55213/['table/list']"}
+{"question_id": "59915/['layout']"}
+{"question_id": "56087/['layout', 'Image/Photo']"}
+{"question_id": "52459/['layout']"}
+{"question_id": "62318/['layout']"}
+{"question_id": "64751/['table/list']"}
+{"question_id": "59376/['table/list']"}
+{"question_id": "15039/['layout']"}
+{"question_id": "59657/['free_text']"}
+{"question_id": "64327/['form', 'handwritten', 'table/list']"}
+{"question_id": "50881/['form']"}
+{"question_id": "59684/['layout']"}
+{"question_id": "56518/['figure/diagram']"}
+{"question_id": "54350/['table/list']"}
+{"question_id": "58064/['figure/diagram']"}
+{"question_id": "47550/['layout']"}
+{"question_id": "46461/['layout']"}
+{"question_id": "19069/['form']"}
+{"question_id": "51602/['handwritten', 'form', 'layout']"}
+{"question_id": "51132/['free_text']"}
+{"question_id": "53855/['form']"}
+{"question_id": "10292/['table/list', 'layout']"}
+{"question_id": "4966/['form']"}
+{"question_id": "7612/['form']"}
+{"question_id": "49150/['figure/diagram']"}
+{"question_id": "63178/['table/list']"}
+{"question_id": "64866/['free_text']"}
+{"question_id": "51554/['handwritten', 'layout']"}
+{"question_id": "47821/['figure/diagram']"}
+{"question_id": "637/['free_text']"}
+{"question_id": "55229/['table/list']"}
+{"question_id": "47478/['layout']"}
+{"question_id": "53572/['free_text', 'layout']"}
+{"question_id": "31025/['layout']"}
+{"question_id": "39049/['table/list']"}
+{"question_id": "45693/['table/list']"}
+{"question_id": "62923/['free_text', 'layout']"}
+{"question_id": "60972/['layout', 'Image/Photo']"}
+{"question_id": "45563/['free_text']"}
+{"question_id": "29757/['table/list']"}
+{"question_id": "64744/['free_text']"}
+{"question_id": "53473/['form']"}
+{"question_id": "21212/['table/list']"}
+{"question_id": "62387/['layout']"}
+{"question_id": "58337/['handwritten', 'table/list']"}
+{"question_id": "25504/['layout']"}
+{"question_id": "57533/['Image/Photo']"}
+{"question_id": "52343/['form']"}
+{"question_id": "59852/['layout']"}
+{"question_id": "58380/['free_text']"}
+{"question_id": "45823/['table/list']"}
+{"question_id": "32154/['table/list']"}
+{"question_id": "50848/['layout']"}
+{"question_id": "39206/['layout']"}
+{"question_id": "42223/['handwritten', 'form']"}
+{"question_id": "18768/['form']"}
+{"question_id": "57159/['layout']"}
+{"question_id": "58515/['free_text']"}
+{"question_id": "33008/['form']"}
+{"question_id": "58372/['table/list']"}
+{"question_id": "57976/['table/list']"}
+{"question_id": "11336/['form']"}
+{"question_id": "43753/['layout']"}
+{"question_id": "41705/['form']"}
+{"question_id": "55395/['table/list']"}
+{"question_id": "62133/['table/list']"}
+{"question_id": "65334/['table/list']"}
+{"question_id": "21211/['layout']"}
+{"question_id": "60910/['layout']"}
+{"question_id": "1889/['layout']"}
+{"question_id": "41799/['form']"}
+{"question_id": "63205/['layout', 'others']"}
+{"question_id": "44941/['layout']"}
+{"question_id": "1954/['table/list']"}
+{"question_id": "19100/['form']"}
+{"question_id": "6782/['layout']"}
+{"question_id": "59475/['free_text']"}
+{"question_id": "25789/['layout']"}
+{"question_id": "5827/['form']"}
+{"question_id": "57056/['free_text', 'layout']"}
+{"question_id": "19166/['handwritten', 'form']"}
+{"question_id": "61370/['layout']"}
+{"question_id": "43477/['layout']"}
+{"question_id": "6845/['layout']"}
+{"question_id": "50112/['table/list']"}
+{"question_id": "4522/['free_text']"}
+{"question_id": "61391/['layout', 'others']"}
+{"question_id": "5824/['table/list']"}
+{"question_id": "9477/['form']"}
+{"question_id": "8075/['table/list']"}
+{"question_id": "25502/['layout']"}
+{"question_id": "58402/['form']"}
+{"question_id": "62074/['table/list']"}
+{"question_id": "53573/['free_text', 'layout']"}
+{"question_id": "65183/['table/list']"}
+{"question_id": "4934/['table/list', 'layout']"}
+{"question_id": "596/['free_text']"}
+{"question_id": "52375/['table/list']"}
+{"question_id": "53992/['layout']"}
+{"question_id": "56502/['free_text']"}
+{"question_id": "59820/['free_text', 'others']"}
+{"question_id": "59693/['form', 'layout']"}
+{"question_id": "49113/['layout']"}
+{"question_id": "64547/['table/list']"}
+{"question_id": "51232/['layout']"}
+{"question_id": "56457/['handwritten', 'form']"}
+{"question_id": "61507/['layout']"}
+{"question_id": "59877/['table/list']"}
+{"question_id": "6030/['table/list']"}
+{"question_id": "43133/['figure/diagram', 'layout']"}
+{"question_id": "6767/['form']"}
+{"question_id": "54270/['handwritten', 'layout']"}
+{"question_id": "62294/['table/list']"}
+{"question_id": "34128/['table/list']"}
+{"question_id": "55925/['layout']"}
+{"question_id": "51771/['table/list']"}
+{"question_id": "57415/['free_text']"}
+{"question_id": "6859/['form']"}
+{"question_id": "62099/['layout']"}
+{"question_id": "60633/['layout']"}
+{"question_id": "63859/['layout']"}
+{"question_id": "58664/['handwritten', 'layout']"}
+{"question_id": "61618/['table/list']"}
+{"question_id": "44857/['free_text', 'table/list']"}
+{"question_id": "56849/['table/list']"}
+{"question_id": "63680/['table/list']"}
+{"question_id": "62940/['layout']"}
+{"question_id": "28057/['layout']"}
+{"question_id": "58897/['layout']"}
+{"question_id": "58530/['free_text']"}
+{"question_id": "46459/['table/list']"}
+{"question_id": "37216/['others']"}
+{"question_id": "57200/['table/list']"}
+{"question_id": "47587/['free_text']"}
+{"question_id": "62517/['table/list']"}
+{"question_id": "37340/['layout']"}
+{"question_id": "49242/['form']"}
+{"question_id": "58915/['free_text']"}
+{"question_id": "5666/['form', 'layout']"}
+{"question_id": "61225/['table/list', 'layout']"}
+{"question_id": "54933/['table/list', 'layout']"}
+{"question_id": "65318/['figure/diagram']"}
+{"question_id": "53466/['form']"}
+{"question_id": "63767/['Image/Photo']"}
+{"question_id": "63688/['table/list']"}
+{"question_id": "58023/['table/list']"}
+{"question_id": "45565/['free_text']"}
+{"question_id": "50363/['table/list']"}
+{"question_id": "56785/['layout']"}
+{"question_id": "59422/['layout']"}
+{"question_id": "59824/['handwritten', 'form']"}
+{"question_id": "57854/['layout']"}
+{"question_id": "57819/['table/list']"}
+{"question_id": "32878/['free_text']"}
+{"question_id": "41691/['free_text']"}
+{"question_id": "59509/['layout']"}
+{"question_id": "32155/['table/list']"}
+{"question_id": "59591/['form']"}
+{"question_id": "34135/['table/list']"}
+{"question_id": "53468/['form']"}
+{"question_id": "63553/['table/list']"}
+{"question_id": "46274/['free_text', 'layout']"}
+{"question_id": "46226/['table/list']"}
+{"question_id": "64377/['form', 'handwritten', 'table/list']"}
+{"question_id": "49257/['free_text']"}
+{"question_id": "55211/['table/list']"}
+{"question_id": "59854/['free_text', 'others']"}
+{"question_id": "44131/['table/list']"}
+{"question_id": "43728/['free_text']"}
+{"question_id": "59597/['table/list']"}
+{"question_id": "51694/['handwritten', 'layout']"}
+{"question_id": "60826/['layout']"}
+{"question_id": "56298/['table/list']"}
+{"question_id": "43641/['figure/diagram']"}
+{"question_id": "4979/['form']"}
+{"question_id": "56778/['layout']"}
+{"question_id": "47763/['free_text', 'table/list', 'layout']"}
+{"question_id": "59819/['layout', 'others']"}
+{"question_id": "45425/['layout', 'others']"}
+{"question_id": "30052/['table/list']"}
+{"question_id": "64753/['table/list']"}
+{"question_id": "5654/['form']"}
+{"question_id": "32549/['free_text']"}
+{"question_id": "58465/['table/list', 'others']"}
+{"question_id": "4958/['form', 'layout']"}
+{"question_id": "64662/['layout', 'others']"}
+{"question_id": "53439/['form']"}
+{"question_id": "57971/['layout']"}
+{"question_id": "45763/['table/list']"}
+{"question_id": "5445/['table/list']"}
+{"question_id": "57212/['layout', 'Image/Photo']"}
+{"question_id": "59799/['layout']"}
+{"question_id": "65059/['figure/diagram']"}
+{"question_id": "43758/['figure/diagram', 'layout']"}
+{"question_id": "5657/['form']"}
+{"question_id": "46749/['table/list']"}
+{"question_id": "18745/['table/list']"}
+{"question_id": "55909/['table/list']"}
+{"question_id": "59263/['table/list']"}
+{"question_id": "49550/['figure/diagram']"}
+{"question_id": "7621/['form']"}
+{"question_id": "60488/['free_text']"}
+{"question_id": "64250/['layout', 'others']"}
+{"question_id": "63663/['table/list']"}
+{"question_id": "2193/['layout']"}
+{"question_id": "59655/['free_text']"}
+{"question_id": "49075/['layout', 'Image/Photo']"}
+{"question_id": "58410/['form', 'others']"}
+{"question_id": "58347/['table/list']"}
+{"question_id": "36894/['table/list']"}
+{"question_id": "50931/['free_text']"}
+{"question_id": "5816/['table/list', 'layout']"}
+{"question_id": "58448/['form']"}
+{"question_id": "64607/['table/list']"}
+{"question_id": "58680/['table/list']"}
+{"question_id": "47934/['form']"}
+{"question_id": "55949/['layout']"}
+{"question_id": "61783/['layout']"}
+{"question_id": "39089/['free_text']"}
+{"question_id": "65064/['table/list']"}
+{"question_id": "45110/['table/list']"}
+{"question_id": "52612/['form']"}
+{"question_id": "55413/['table/list']"}
+{"question_id": "37076/['handwritten', 'layout']"}
+{"question_id": "56529/['free_text']"}
+{"question_id": "16429/['table/list']"}
+{"question_id": "55924/['layout']"}
+{"question_id": "56268/['layout']"}
+{"question_id": "57224/['table/list']"}
+{"question_id": "54466/['free_text']"}
+{"question_id": "57954/['others']"}
+{"question_id": "49373/['layout']"}
+{"question_id": "59805/['Image/Photo']"}
+{"question_id": "20741/['table/list']"}
+{"question_id": "17002/['layout']"}
+{"question_id": "45841/['table/list']"}
+{"question_id": "18526/['free_text', 'others']"}
+{"question_id": "2212/['table/list']"}
+{"question_id": "58587/['table/list']"}
+{"question_id": "62134/['layout']"}
+{"question_id": "6193/['table/list']"}
+{"question_id": "58725/['table/list']"}
+{"question_id": "64901/['form']"}
+{"question_id": "51213/['figure/diagram']"}
+{"question_id": "62469/['table/list']"}
+{"question_id": "50841/['figure/diagram']"}
+{"question_id": "45743/['table/list']"}
+{"question_id": "41693/['free_text']"}
+{"question_id": "65317/['figure/diagram']"}
+{"question_id": "55414/['table/list']"}
+{"question_id": "57204/['table/list']"}
+{"question_id": "58728/['table/list']"}
+{"question_id": "284/['free_text']"}
+{"question_id": "51292/['layout']"}
+{"question_id": "45835/['table/list']"}
+{"question_id": "36927/['form']"}
+{"question_id": "5208/['handwritten', 'form']"}
+{"question_id": "51085/['layout']"}
+{"question_id": "57248/['free_text']"}
+{"question_id": "24558/['table/list']"}
+{"question_id": "64139/['table/list']"}
+{"question_id": "25732/['table/list']"}
+{"question_id": "6998/['form']"}
+{"question_id": "59471/['table/list']"}
+{"question_id": "60817/['table/list']"}
+{"question_id": "57170/['table/list']"}
+{"question_id": "60454/['free_text']"}
+{"question_id": "58291/['layout']"}
+{"question_id": "21297/['layout']"}
+{"question_id": "58056/['figure/diagram']"}
+{"question_id": "37332/['others']"}
+{"question_id": "54971/['table/list']"}
+{"question_id": "50799/['form', 'layout']"}
+{"question_id": "347/['table/list']"}
+{"question_id": "41695/['free_text']"}
+{"question_id": "51643/['form', 'layout']"}
+{"question_id": "65120/['free_text']"}
+{"question_id": "6958/['handwritten', 'form']"}
+{"question_id": "6819/['layout']"}
+{"question_id": "676/['layout']"}
+{"question_id": "50123/['layout']"}
+{"question_id": "6854/['form']"}
+{"question_id": "54355/['table/list']"}
+{"question_id": "21699/['table/list']"}
+{"question_id": "60402/['free_text', 'layout']"}
+{"question_id": "56975/['table/list']"}
+{"question_id": "60447/['layout']"}
+{"question_id": "50806/['handwritten', 'free_text']"}
+{"question_id": "53436/['form']"}
+{"question_id": "283/['free_text']"}
+{"question_id": "44965/['table/list']"}
+{"question_id": "2288/['free_text']"}
+{"question_id": "63637/['layout']"}
+{"question_id": "46277/['free_text', 'layout']"}
+{"question_id": "51160/['layout']"}
+{"question_id": "63506/['form']"}
+{"question_id": "59981/['table/list']"}
+{"question_id": "65168/['table/list']"}
+{"question_id": "346/['form']"}
+{"question_id": "15281/['free_text', 'others']"}
+{"question_id": "5613/['handwritten', 'table/list']"}
+{"question_id": "58526/['Image/Photo']"}
+{"question_id": "64590/['layout']"}
+{"question_id": "57256/['form']"}
+{"question_id": "59838/['free_text']"}
+{"question_id": "60912/['free_text']"}
+{"question_id": "49082/['handwritten', 'layout']"}
+{"question_id": "63856/['table/list']"}
+{"question_id": "18961/['handwritten', 'form']"}
+{"question_id": "56363/['figure/diagram']"}
+{"question_id": "60697/['form']"}
+{"question_id": "59964/['table/list', 'layout']"}
+{"question_id": "47078/['handwritten', 'table/list']"}
+{"question_id": "1170/['layout']"}
+{"question_id": "16835/['form']"}
+{"question_id": "7575/['handwritten', 'layout']"}
+{"question_id": "59826/['free_text']"}
+{"question_id": "1901/['layout']"}
+{"question_id": "48158/['free_text']"}
+{"question_id": "63182/['layout']"}
+{"question_id": "56848/['table/list']"}
+{"question_id": "63860/['free_text']"}
+{"question_id": "59989/['table/list']"}
+{"question_id": "62762/['Image/Photo']"}
+{"question_id": "61261/['table/list', 'layout']"}
+{"question_id": "58697/['form']"}
+{"question_id": "6206/['form', 'table/list']"}
+{"question_id": "59431/['form']"}
+{"question_id": "46216/['layout']"}
+{"question_id": "64472/['table/list']"}
+{"question_id": "55106/['table/list']"}
+{"question_id": "57885/['layout']"}
+{"question_id": "64493/['table/list']"}
+{"question_id": "64931/['table/list']"}
+{"question_id": "63180/['table/list']"}
+{"question_id": "5670/['handwritten', 'form']"}
+{"question_id": "60035/['handwritten', 'table/list']"}
+{"question_id": "62304/['table/list']"}
+{"question_id": "57391/['layout']"}
+{"question_id": "58298/['table/list']"}
+{"question_id": "58434/['layout']"}
+{"question_id": "46458/['table/list']"}
+{"question_id": "58319/['table/list']"}
+{"question_id": "3839/['table/list']"}
+{"question_id": "55214/['table/list']"}
+{"question_id": "45124/['table/list', 'layout']"}
+{"question_id": "57985/['table/list']"}
+{"question_id": "43159/['free_text']"}
+{"question_id": "56406/['figure/diagram']"}
+{"question_id": "64999/['figure/diagram']"}
+{"question_id": "21306/['table/list', 'layout']"}
+{"question_id": "61368/['form']"}
+{"question_id": "43079/['figure/diagram']"}
+{"question_id": "61126/['handwritten', 'form']"}
+{"question_id": "58879/['table/list']"}
+{"question_id": "60142/['table/list']"}
+{"question_id": "65359/['table/list']"}
+{"question_id": "824/['free_text']"}
+{"question_id": "54916/['layout']"}
+{"question_id": "55149/['table/list']"}
+{"question_id": "63853/['table/list']"}
+{"question_id": "58752/['table/list']"}
+{"question_id": "64687/['table/list']"}
+{"question_id": "56557/['layout']"}
+{"question_id": "5594/['free_text']"}
+{"question_id": "47752/['form']"}
+{"question_id": "56824/['table/list']"}
+{"question_id": "52156/['layout']"}
+{"question_id": "64254/['free_text']"}
+{"question_id": "463/['free_text']"}
+{"question_id": "46501/['table/list']"}
+{"question_id": "55948/['free_text']"}
+{"question_id": "40799/['table/list']"}
+{"question_id": "4449/['figure/diagram', 'layout']"}
+{"question_id": "45796/['form']"}
+{"question_id": "59538/['layout', 'others']"}
+{"question_id": "61385/['layout', 'others']"}
+{"question_id": "64183/['table/list']"}
+{"question_id": "63835/['free_text']"}
+{"question_id": "63891/['layout']"}
+{"question_id": "63242/['table/list', 'others']"}
+{"question_id": "44820/['layout']"}
+{"question_id": "50315/['handwritten', 'form']"}
+{"question_id": "60483/['Image/Photo']"}
+{"question_id": "59923/['free_text', 'layout']"}
+{"question_id": "4742/['handwritten', 'form']"}
+{"question_id": "59616/['free_text']"}
+{"question_id": "36501/['layout']"}
+{"question_id": "4963/['handwritten', 'form']"}
+{"question_id": "21300/['free_text', 'layout']"}
+{"question_id": "26926/['layout']"}
+{"question_id": "52267/['free_text']"}
+{"question_id": "54193/['free_text', 'layout']"}
+{"question_id": "57161/['free_text']"}
+{"question_id": "63524/['layout']"}
+{"question_id": "52238/['layout']"}
+{"question_id": "4411/['handwritten', 'form']"}
+{"question_id": "57767/['free_text']"}
+{"question_id": "317/['layout']"}
+{"question_id": "3066/['layout']"}
+{"question_id": "63166/['handwritten', 'table/list']"}
+{"question_id": "50873/['handwritten', 'form']"}
+{"question_id": "36499/['layout']"}
+{"question_id": "50866/['figure/diagram']"}
+{"question_id": "56808/['form']"}
+{"question_id": "64287/['table/list']"}
+{"question_id": "15141/['layout']"}
+{"question_id": "3072/['form']"}
+{"question_id": "40585/['layout']"}
+{"question_id": "6194/['form', 'table/list']"}
+{"question_id": "1164/['table/list']"}
+{"question_id": "55371/['layout']"}
+{"question_id": "47369/['table/list']"}
+{"question_id": "60792/['layout']"}
+{"question_id": "46366/['layout']"}
+{"question_id": "64208/['free_text']"}
+{"question_id": "46238/['table/list', 'layout']"}
+{"question_id": "50800/['figure/diagram']"}
+{"question_id": "63257/['table/list']"}
+{"question_id": "63752/['table/list']"}
+{"question_id": "58269/['table/list']"}
+{"question_id": "59979/['layout']"}
+{"question_id": "58268/['table/list']"}
+{"question_id": "49401/['form']"}
+{"question_id": "55092/['table/list']"}
+{"question_id": "56258/['table/list']"}
+{"question_id": "15329/['figure/diagram']"}
+{"question_id": "63901/['table/list']"}
+{"question_id": "51241/['layout']"}
+{"question_id": "54959/['layout']"}
+{"question_id": "319/['free_text']"}
+{"question_id": "61275/['free_text', 'layout']"}
+{"question_id": "46639/['layout']"}
+{"question_id": "64207/['free_text']"}
+{"question_id": "58311/['table/list']"}
+{"question_id": "6963/['layout']"}
+{"question_id": "51025/['table/list']"}
+{"question_id": "50209/['layout']"}
+{"question_id": "5776/['form']"}
+{"question_id": "59791/['free_text', 'others']"}
+{"question_id": "44973/['table/list']"}
+{"question_id": "59457/['table/list']"}
+{"question_id": "64754/['table/list']"}
+{"question_id": "2216/['table/list']"}
+{"question_id": "5623/['free_text']"}
+{"question_id": "6622/['form']"}
+{"question_id": "3041/['form']"}
+{"question_id": "36588/['table/list']"}
+{"question_id": "46446/['form']"}
+{"question_id": "4091/['layout']"}
+{"question_id": "45122/['layout']"}
+{"question_id": "26655/['layout']"}
+{"question_id": "16359/['free_text']"}
+{"question_id": "37421/['table/list']"}
+{"question_id": "50770/['figure/diagram']"}
+{"question_id": "36309/['table/list']"}
+{"question_id": "1985/['table/list']"}
+{"question_id": "55100/['layout']"}
+{"question_id": "45827/['free_text']"}
+{"question_id": "59623/['layout']"}
+{"question_id": "56575/['handwritten', 'form']"}
+{"question_id": "60996/['layout']"}
+{"question_id": "47753/['table/list']"}
+{"question_id": "65007/['figure/diagram']"}
+{"question_id": "60480/['layout']"}
+{"question_id": "63655/['layout', 'others']"}
+{"question_id": "783/['handwritten', 'layout']"}
+{"question_id": "25739/['table/list']"}
+{"question_id": "50512/['layout']"}
+{"question_id": "57315/['table/list']"}
+{"question_id": "54372/['form', 'layout']"}
+{"question_id": "18512/['free_text', 'others']"}
+{"question_id": "53726/['layout']"}
+{"question_id": "7034/['handwritten', 'form']"}
+{"question_id": "60804/['table/list']"}
+{"question_id": "56446/['form']"}
+{"question_id": "54614/['handwritten', 'form']"}
+{"question_id": "16539/['form', 'layout']"}
+{"question_id": "52180/['layout']"}
+{"question_id": "7013/['form']"}
+{"question_id": "45802/['figure/diagram', 'free_text']"}
+{"question_id": "16837/['form']"}
+{"question_id": "59411/['table/list']"}
+{"question_id": "61932/['table/list']"}
+{"question_id": "61972/['layout']"}
+{"question_id": "64253/['free_text']"}
+{"question_id": "39076/['layout']"}
+{"question_id": "64495/['table/list']"}
+{"question_id": "19245/['free_text']"}
+{"question_id": "50516/['form']"}
+{"question_id": "45804/['figure/diagram']"}
+{"question_id": "64689/['table/list']"}
+{"question_id": "64940/['table/list']"}
+{"question_id": "255/['layout']"}
+{"question_id": "47544/['layout']"}
+{"question_id": "57833/['layout']"}
+{"question_id": "6003/['form']"}
+{"question_id": "49117/['form']"}
+{"question_id": "43286/['others']"}
+{"question_id": "52248/['table/list']"}
+{"question_id": "2007/['free_text']"}
+{"question_id": "365/['table/list']"}
+{"question_id": "19093/['form']"}
+{"question_id": "50518/['free_text']"}
+{"question_id": "61272/['free_text', 'layout']"}
+{"question_id": "43261/['table/list']"}
+{"question_id": "52295/['free_text']"}
+{"question_id": "5721/['handwritten', 'form', 'layout']"}
+{"question_id": "56472/['form', 'others']"}
+{"question_id": "15747/['free_text', 'layout']"}
+{"question_id": "51530/['layout']"}
+{"question_id": "49058/['layout']"}
+{"question_id": "50769/['handwritten', 'form']"}
+{"question_id": "51615/['layout']"}
+{"question_id": "46511/['table/list']"}
+{"question_id": "45745/['table/list']"}
+{"question_id": "1182/['free_text']"}
+{"question_id": "65058/['figure/diagram']"}
+{"question_id": "51586/['layout']"}
+{"question_id": "56080/['layout']"}
+{"question_id": "57213/['layout']"}
+{"question_id": "64190/['table/list']"}
+{"question_id": "5505/['layout', 'others']"}
+{"question_id": "49077/['layout']"}
+{"question_id": "24582/['handwritten', 'form']"}
+{"question_id": "53538/['table/list', 'layout']"}
+{"question_id": "15155/['table/list']"}
+{"question_id": "61290/['layout']"}
+{"question_id": "63176/['layout']"}
+{"question_id": "19005/['form']"}
+{"question_id": "51229/['layout']"}
+{"question_id": "65313/['layout']"}
+{"question_id": "64928/['table/list']"}
+{"question_id": "18975/['layout']"}
+{"question_id": "55328/['table/list']"}
+{"question_id": "32885/['table/list']"}
+{"question_id": "65229/['table/list']"}
+{"question_id": "43789/['figure/diagram']"}
+{"question_id": "57206/['table/list']"}
+{"question_id": "53728/['table/list']"}
+{"question_id": "15003/['table/list']"}
+{"question_id": "57321/['table/list']"}
+{"question_id": "53099/['Yes/No', 'form']"}
+{"question_id": "60964/['layout', 'others']"}
+{"question_id": "59502/['free_text']"}
+{"question_id": "36853/['table/list']"}
+{"question_id": "56977/['layout']"}
+{"question_id": "43742/['free_text']"}
+{"question_id": "59926/['form', 'layout']"}
+{"question_id": "59912/['free_text']"}
+{"question_id": "54935/['table/list', 'layout']"}
+{"question_id": "1974/['others']"}
+{"question_id": "6823/['table/list']"}
+{"question_id": "44141/['table/list']"}
+{"question_id": "58874/['layout']"}
+{"question_id": "33000/['layout']"}
+{"question_id": "47373/['layout']"}
+{"question_id": "56400/['table/list']"}
+{"question_id": "56274/['table/list']"}
+{"question_id": "64488/['table/list']"}
+{"question_id": "64151/['table/list']"}
+{"question_id": "6766/['layout']"}
+{"question_id": "50307/['free_text']"}
+{"question_id": "46633/['layout', 'others']"}
+{"question_id": "8126/['form']"}
+{"question_id": "60748/['free_text', 'layout']"}
+{"question_id": "62477/['table/list']"}
+{"question_id": "20840/['layout']"}
+{"question_id": "4744/['handwritten', 'table/list']"}
+{"question_id": "43774/['figure/diagram']"}
+{"question_id": "5464/['layout']"}
+{"question_id": "58333/['layout']"}
+{"question_id": "56284/['layout']"}
+{"question_id": "45837/['table/list']"}
+{"question_id": "60811/['table/list']"}
+{"question_id": "58441/['layout']"}
+{"question_id": "48147/['layout']"}
+{"question_id": "64633/['Image/Photo']"}
+{"question_id": "18950/['handwritten', 'form']"}
+{"question_id": "62274/['layout']"}
+{"question_id": "64461/['layout']"}
+{"question_id": "51654/['handwritten', 'layout']"}
+{"question_id": "39196/['layout']"}
+{"question_id": "47931/['form']"}
+{"question_id": "64893/['table/list']"}
+{"question_id": "63135/['free_text', 'form', 'layout']"}
+{"question_id": "38930/['form', 'layout', 'others']"}
+{"question_id": "60963/['layout', 'others']"}
+{"question_id": "57366/['Image/Photo']"}
+{"question_id": "50752/['free_text', 'form', 'layout']"}
+{"question_id": "56885/['free_text']"}
+{"question_id": "58571/['layout']"}
+{"question_id": "47425/['layout']"}
+{"question_id": "50262/['layout']"}
+{"question_id": "47073/['handwritten', 'table/list']"}
+{"question_id": "61246/['handwritten', 'free_text', 'layout']"}
+{"question_id": "55329/['table/list']"}
+{"question_id": "43727/['free_text']"}
+{"question_id": "63346/['layout']"}
+{"question_id": "59882/['layout']"}
+{"question_id": "57409/['layout']"}
+{"question_id": "8072/['form']"}
+{"question_id": "57139/['layout', 'others']"}
+{"question_id": "18779/['form']"}
+{"question_id": "5871/['form']"}
+{"question_id": "64487/['table/list']"}
+{"question_id": "15386/['table/list']"}
+{"question_id": "56079/['layout']"}
+{"question_id": "63760/['table/list']"}
+{"question_id": "64202/['figure/diagram']"}
+{"question_id": "43751/['free_text']"}
+{"question_id": "52239/['layout']"}
+{"question_id": "64755/['table/list']"}
+{"question_id": "45147/['layout']"}
+{"question_id": "55025/['table/list']"}
+{"question_id": "61548/['layout']"}
+{"question_id": "888/['free_text']"}
+{"question_id": "63567/['table/list']"}
+{"question_id": "64468/['form']"}
+{"question_id": "63147/['layout']"}
+{"question_id": "7029/['handwritten', 'free_text']"}
+{"question_id": "30794/['form', 'layout']"}
+{"question_id": "3837/['table/list']"}
+{"question_id": "32994/['table/list']"}
+{"question_id": "63667/['table/list']"}
+{"question_id": "59570/['form']"}
+{"question_id": "52151/['layout']"}
+{"question_id": "50719/['table/list']"}
+{"question_id": "360/['table/list']"}
+{"question_id": "25712/['layout', 'others']"}
+{"question_id": "55287/['free_text', 'others']"}
+{"question_id": "44136/['table/list']"}
+{"question_id": "8127/['form']"}
+{"question_id": "1022/['layout']"}
+{"question_id": "62102/['free_text']"}
+{"question_id": "7236/['table/list']"}
+{"question_id": "16346/['free_text']"}
+{"question_id": "64742/['layout']"}
+{"question_id": "60957/['layout', 'Image/Photo']"}
+{"question_id": "50748/['free_text', 'form', 'layout']"}
+{"question_id": "7616/['layout', 'others']"}
+{"question_id": "59832/['table/list']"}
+{"question_id": "36943/['table/list']"}
+{"question_id": "60435/['form']"}
+{"question_id": "45134/['free_text']"}
+{"question_id": "5263/['form']"}
+{"question_id": "5477/['table/list']"}
+{"question_id": "15234/['table/list']"}
+{"question_id": "46431/['table/list']"}
+{"question_id": "57259/['table/list']"}
+{"question_id": "21708/['table/list']"}
+{"question_id": "57059/['table/list']"}
+{"question_id": "16553/['form']"}
+{"question_id": "59625/['layout']"}
+{"question_id": "50762/['free_text']"}
+{"question_id": "376/['free_text']"}
+{"question_id": "58272/['table/list']"}
+{"question_id": "60935/['layout']"}
+{"question_id": "64831/['layout']"}
+{"question_id": "64943/['table/list']"}
+{"question_id": "6942/['form']"}
+{"question_id": "22584/['form', 'layout']"}
+{"question_id": "37663/['table/list']"}
+{"question_id": "4438/['figure/diagram', 'layout']"}
+{"question_id": "38880/['table/list']"}
+{"question_id": "19229/['form', 'free_text', 'table/list']"}
+{"question_id": "56784/['table/list']"}
+{"question_id": "5997/['handwritten', 'table/list']"}
+{"question_id": "64680/['table/list']"}
+{"question_id": "37354/['form']"}
+{"question_id": "56436/['form']"}
+{"question_id": "21067/['free_text']"}
+{"question_id": "51506/['layout']"}
+{"question_id": "457/['free_text']"}
+{"question_id": "61227/['layout']"}
+{"question_id": "50845/['figure/diagram']"}
+{"question_id": "46327/['layout']"}
+{"question_id": "55029/['table/list']"}
+{"question_id": "61267/['table/list', 'layout']"}
+{"question_id": "60434/['form']"}
+{"question_id": "63843/['table/list']"}
+{"question_id": "51242/['free_text']"}
+{"question_id": "59590/['form']"}
+{"question_id": "63867/['table/list']"}
+{"question_id": "50517/['layout']"}
+{"question_id": "5287/['form']"}
+{"question_id": "5676/['handwritten', 'form']"}
+{"question_id": "15094/['form']"}
+{"question_id": "21132/['table/list']"}
+{"question_id": "60701/['table/list']"}
+{"question_id": "60928/['form', 'layout']"}
+{"question_id": "64617/['table/list']"}
+{"question_id": "57783/['free_text']"}
+{"question_id": "36505/['layout']"}
+{"question_id": "22312/['layout']"}
+{"question_id": "21213/['table/list']"}
+{"question_id": "45800/['free_text', 'layout']"}
+{"question_id": "25722/['layout']"}
+{"question_id": "59972/['table/list']"}
+{"question_id": "64212/['table/list']"}
+{"question_id": "25679/['free_text', 'layout', 'others']"}
+{"question_id": "63568/['table/list']"}
+{"question_id": "57260/['free_text']"}
+{"question_id": "57823/['layout']"}
+{"question_id": "56360/['figure/diagram']"}
+{"question_id": "59797/['free_text', 'others']"}
+{"question_id": "61929/['table/list']"}
+{"question_id": "5566/['table/list']"}
+{"question_id": "36502/['layout']"}
+{"question_id": "65385/['figure/diagram', 'layout']"}
+{"question_id": "56859/['table/list']"}
+{"question_id": "62525/['form']"}
+{"question_id": "62413/['table/list']"}
+{"question_id": "52293/['free_text']"}
+{"question_id": "64387/['form', 'handwritten', 'table/list']"}
+{"question_id": "3135/['layout']"}
+{"question_id": "47081/['handwritten', 'table/list']"}
+{"question_id": "305/['table/list']"}
+{"question_id": "56062/['layout']"}
+{"question_id": "64936/['figure/diagram', 'layout']"}
+{"question_id": "30443/['layout']"}
+{"question_id": "56288/['free_text']"}
+{"question_id": "12577/['form']"}
+{"question_id": "5313/['table/list']"}
+{"question_id": "50316/['handwritten', 'form']"}
+{"question_id": "60977/['free_text', 'layout']"}
+{"question_id": "39204/['layout']"}
+{"question_id": "64181/['table/list']"}
+{"question_id": "6020/['handwritten', 'form']"}
+{"question_id": "60498/['figure/diagram', 'layout']"}
+{"question_id": "5520/['layout']"}
+{"question_id": "59831/['table/list']"}
+{"question_id": "64980/['layout']"}
+{"question_id": "793/['layout']"}
+{"question_id": "4418/['figure/diagram', 'table/list']"}
+{"question_id": "61238/['figure/diagram', 'layout']"}
+{"question_id": "3042/['form']"}
+{"question_id": "60049/['free_text']"}
+{"question_id": "46314/['table/list', 'layout']"}
+{"question_id": "17004/['form']"}
+{"question_id": "45658/['free_text']"}
+{"question_id": "50963/['layout']"}
+{"question_id": "650/['layout']"}
+{"question_id": "61239/['figure/diagram', 'layout']"}
+{"question_id": "64888/['table/list']"}
+{"question_id": "60432/['form']"}
+{"question_id": "49560/['figure/diagram']"}
+{"question_id": "32890/['table/list']"}
+{"question_id": "49079/['handwritten', 'layout']"}
+{"question_id": "58541/['table/list']"}
+{"question_id": "52274/['form']"}
+{"question_id": "18831/['free_text']"}
+{"question_id": "58398/['form']"}
+{"question_id": "56842/['form']"}
+{"question_id": "64588/['table/list']"}
+{"question_id": "64180/['table/list']"}
+{"question_id": "45838/['table/list']"}
+{"question_id": "59451/['layout']"}
+{"question_id": "49104/['layout']"}
+{"question_id": "19162/['handwritten', 'form']"}
+{"question_id": "56970/['table/list']"}
+{"question_id": "63868/['table/list']"}
+{"question_id": "63763/['table/list']"}
+{"question_id": "48155/['layout']"}
+{"question_id": "38038/['layout']"}
+{"question_id": "55192/['free_text']"}
+{"question_id": "49101/['layout']"}
+{"question_id": "47902/['table/list']"}
+{"question_id": "7401/['form']"}
+{"question_id": "57810/['form']"}
+{"question_id": "19224/['form', 'free_text', 'table/list']"}
+{"question_id": "59841/['layout']"}
+{"question_id": "56404/['figure/diagram']"}
+{"question_id": "46503/['table/list']"}
+{"question_id": "60626/['handwritten', 'layout']"}
+{"question_id": "49399/['layout']"}
+{"question_id": "51329/['handwritten', 'layout']"}
+{"question_id": "59986/['table/list']"}
+{"question_id": "41800/['form']"}
+{"question_id": "1898/['layout']"}
+{"question_id": "65405/['handwritten', 'layout']"}
+{"question_id": "8074/['form']"}
+{"question_id": "58878/['table/list']"}
+{"question_id": "51617/['form', 'layout']"}
+{"question_id": "6781/['layout']"}
+{"question_id": "51741/['handwritten', 'form']"}
+{"question_id": "56577/['form']"}
+{"question_id": "57169/['free_text']"}
+{"question_id": "65330/['layout']"}
+{"question_id": "52483/['layout']"}
+{"question_id": "59839/['layout', 'others']"}
+{"question_id": "65337/['table/list']"}
+{"question_id": "43738/['layout']"}
+{"question_id": "56776/['figure/diagram']"}
+{"question_id": "60816/['table/list']"}
+{"question_id": "59589/['form']"}
+{"question_id": "65066/['layout']"}
+{"question_id": "3039/['form']"}
+{"question_id": "60005/['form', 'layout', 'others']"}
+{"question_id": "18828/['layout']"}
+{"question_id": "57313/['table/list']"}
+{"question_id": "18821/['form']"}
+{"question_id": "55105/['table/list']"}
+{"question_id": "25715/['table/list']"}
+{"question_id": "58061/['figure/diagram']"}
+{"question_id": "224/['layout']"}
+{"question_id": "56423/['form']"}
+{"question_id": "44233/['table/list', 'layout']"}
+{"question_id": "45111/['table/list']"}
+{"question_id": "50725/['form', 'layout']"}
+{"question_id": "57240/['free_text']"}
+{"question_id": "25716/['form']"}
+{"question_id": "43757/['table/list', 'layout']"}
+{"question_id": "58784/['table/list']"}
+{"question_id": "61772/['free_text']"}
+{"question_id": "64133/['form']"}
+{"question_id": "25713/['form']"}
+{"question_id": "37243/['layout']"}
+{"question_id": "63050/['form']"}
+{"question_id": "60383/['free_text', 'layout']"}
+{"question_id": "61353/['free_text']"}
+{"question_id": "61763/['layout']"}
+{"question_id": "55335/['table/list']"}
+{"question_id": "56036/['free_text']"}
+{"question_id": "34132/['table/list']"}
+{"question_id": "5778/['form', 'layout']"}
+{"question_id": "42186/['form']"}
+{"question_id": "64153/['layout']"}
+{"question_id": "56893/['free_text']"}
+{"question_id": "62541/['layout']"}
+{"question_id": "43611/['table/list']"}
+{"question_id": "55115/['table/list']"}
+{"question_id": "1183/['free_text']"}
+{"question_id": "59975/['table/list']"}
+{"question_id": "62513/['form']"}
+{"question_id": "39139/['Yes/No']"}
+{"question_id": "809/['layout']"}
+{"question_id": "43083/['form']"}
+{"question_id": "56075/['layout']"}
+{"question_id": "1903/['table/list']"}
+{"question_id": "63156/['free_text']"}
+{"question_id": "63169/['layout']"}
+{"question_id": "56819/['table/list']"}
+{"question_id": "56456/['free_text', 'layout']"}
+{"question_id": "17134/['form']"}
+{"question_id": "63751/['table/list']"}
+{"question_id": "45836/['table/list']"}
+{"question_id": "50260/['layout']"}
+{"question_id": "58903/['free_text', 'others']"}
+{"question_id": "15277/['free_text', 'others']"}
+{"question_id": "46348/['table/list']"}
+{"question_id": "5675/['handwritten', 'form']"}
+{"question_id": "59609/['free_text', 'layout']"}
+{"question_id": "8045/['form']"}
+{"question_id": "56648/['others']"}
+{"question_id": "14993/['layout']"}
+{"question_id": "9307/['layout']"}
+{"question_id": "17150/['others']"}
+{"question_id": "55255/['table/list']"}
+{"question_id": "9962/['handwritten', 'form']"}
+{"question_id": "59974/['table/list']"}
+{"question_id": "15148/['table/list']"}
+{"question_id": "62821/['free_text']"}
+{"question_id": "361/['form']"}
+{"question_id": "30048/['table/list']"}
+{"question_id": "56362/['figure/diagram']"}
+{"question_id": "47860/['layout']"}
+{"question_id": "59419/['layout']"}
+{"question_id": "56455/['handwritten', 'form']"}
+{"question_id": "60484/['free_text']"}
+{"question_id": "5611/['handwritten', 'form']"}
+{"question_id": "49327/['table/list']"}
+{"question_id": "47919/['handwritten', 'layout']"}
+{"question_id": "17000/['layout']"}
+{"question_id": "62325/['layout', 'others']"}
+{"question_id": "50816/['table/list']"}
+{"question_id": "16990/['free_text']"}
+{"question_id": "454/['free_text']"}
+{"question_id": "58660/['form', 'table/list']"}
+{"question_id": "58674/['form']"}
+{"question_id": "45093/['layout']"}
+{"question_id": "300/['table/list']"}
+{"question_id": "15230/['table/list']"}
+{"question_id": "62335/['layout']"}
+{"question_id": "56049/['layout']"}
+{"question_id": "54624/['form']"}
+{"question_id": "56974/['table/list']"}
+{"question_id": "52289/['free_text']"}
+{"question_id": "43092/['form']"}
+{"question_id": "21707/['table/list']"}
+{"question_id": "55215/['table/list']"}
+{"question_id": "59943/['layout']"}
+{"question_id": "51001/['layout']"}
+{"question_id": "43117/['figure/diagram', 'layout']"}
+{"question_id": "37016/['table/list']"}
+{"question_id": "57951/['layout']"}
+{"question_id": "674/['layout']"}
+{"question_id": "50527/['layout']"}
+{"question_id": "36855/['table/list']"}
+{"question_id": "58320/['table/list']"}
+{"question_id": "9479/['form']"}
+{"question_id": "65204/['form']"}
+{"question_id": "32202/['free_text']"}
+{"question_id": "57375/['layout']"}
+{"question_id": "59927/['layout']"}
+{"question_id": "44972/['layout']"}
+{"question_id": "59931/['table/list']"}
+{"question_id": "16609/['form']"}
+{"question_id": "38883/['table/list']"}
+{"question_id": "57900/['table/list']"}
+{"question_id": "32889/['table/list']"}
+{"question_id": "47040/['table/list']"}
+{"question_id": "298/['table/list']"}
+{"question_id": "6802/['layout']"}
+{"question_id": "58322/['table/list']"}
+{"question_id": "65202/['form']"}
+{"question_id": "24426/['layout']"}
+{"question_id": "57083/['layout']"}
+{"question_id": "22306/['form', 'layout']"}
+{"question_id": "5642/['form']"}
+{"question_id": "37471/['table/list']"}
+{"question_id": "43122/['table/list']"}
+{"question_id": "52485/['table/list']"}
+{"question_id": "60457/['free_text']"}
+{"question_id": "383/['free_text']"}
+{"question_id": "59636/['layout']"}
+{"question_id": "32555/['table/list']"}
+{"question_id": "63534/['table/list']"}
+{"question_id": "62320/['layout']"}
+{"question_id": "43226/['free_text', 'others']"}
+{"question_id": "45106/['figure/diagram', 'layout']"}
+{"question_id": "49292/['layout']"}
+{"question_id": "60721/['layout']"}
+{"question_id": "49534/['figure/diagram']"}
+{"question_id": "6821/['layout']"}
+{"question_id": "50208/['layout']"}
+{"question_id": "4087/['layout']"}
+{"question_id": "32891/['free_text']"}
+{"question_id": "44132/['table/list']"}
+{"question_id": "56283/['layout']"}
+{"question_id": "50266/['layout', 'Image/Photo']"}
+{"question_id": "59996/['layout']"}
+{"question_id": "7012/['layout']"}
+{"question_id": "57364/['Image/Photo']"}
+{"question_id": "6978/['handwritten', 'form']"}
+{"question_id": "444/['form', 'layout']"}
+{"question_id": "58545/['table/list']"}
+{"question_id": "50450/['table/list']"}
+{"question_id": "50850/['form', 'layout']"}
+{"question_id": "5497/['free_text', 'others']"}
+{"question_id": "16424/['free_text']"}
+{"question_id": "58842/['layout']"}
+{"question_id": "6035/['handwritten', 'form']"}
+{"question_id": "51233/['free_text']"}
+{"question_id": "5409/['layout']"}
+{"question_id": "32547/['free_text']"}
+{"question_id": "60908/['table/list']"}
+{"question_id": "62997/['handwritten', 'form']"}
+{"question_id": "57372/['table/list']"}
+{"question_id": "44841/['figure/diagram']"}
+{"question_id": "37011/['table/list']"}
+{"question_id": "32550/['free_text']"}
+{"question_id": "16501/['table/list']"}
+{"question_id": "63758/['table/list']"}
+{"question_id": "44281/['table/list']"}
+{"question_id": "59294/['table/list']"}
+{"question_id": "37454/['layout', 'others']"}
+{"question_id": "62527/['layout', 'others']"}
+{"question_id": "55259/['table/list']"}
+{"question_id": "49055/['form']"}
+{"question_id": "59479/['free_text']"}
+{"question_id": "18753/['form', 'layout']"}
+{"question_id": "63864/['table/list']"}
+{"question_id": "52369/['layout']"}
+{"question_id": "64908/['free_text']"}
+{"question_id": "60903/['form', 'table/list']"}
+{"question_id": "60962/['layout', 'others']"}
+{"question_id": "63554/['table/list']"}
+{"question_id": "5609/['handwritten', 'form']"}
+{"question_id": "57137/['free_text']"}
+{"question_id": "49153/['figure/diagram']"}
+{"question_id": "63636/['layout']"}
+{"question_id": "56847/['table/list']"}
+{"question_id": "65005/['figure/diagram']"}
+{"question_id": "41828/['handwritten', 'form']"}
+{"question_id": "18764/['form']"}
+{"question_id": "60874/['table/list', 'layout']"}
+{"question_id": "60634/['layout']"}
+{"question_id": "375/['free_text']"}
+{"question_id": "42041/['table/list']"}
+{"question_id": "58512/['layout']"}
+{"question_id": "377/['free_text']"}
+{"question_id": "50803/['handwritten', 'form']"}
+{"question_id": "59600/['free_text']"}
+{"question_id": "64706/['table/list']"}
+{"question_id": "64614/['form', 'layout']"}
+{"question_id": "59928/['free_text']"}
+{"question_id": "1795/['free_text']"}
+{"question_id": "33158/['form']"}
+{"question_id": "64134/['form', 'table/list']"}
+{"question_id": "56464/['Yes/No', 'handwritten', 'form']"}
+{"question_id": "307/['table/list']"}
+{"question_id": "64545/['table/list']"}
+{"question_id": "65057/['figure/diagram']"}
+{"question_id": "51818/['table/list']"}
+{"question_id": "7019/['table/list']"}
+{"question_id": "677/['free_text']"}
+{"question_id": "58421/['form']"}
+{"question_id": "37478/['layout', 'others']"}
+{"question_id": "32990/['layout']"}
+{"question_id": "57973/['table/list']"}
+{"question_id": "58446/['table/list']"}
+{"question_id": "56805/['free_text']"}
+{"question_id": "6941/['form']"}
+{"question_id": "4949/['table/list']"}
+{"question_id": "58648/['layout']"}
+{"question_id": "5474/['table/list']"}
+{"question_id": "36920/['form']"}
+{"question_id": "49124/['table/list']"}
+{"question_id": "64466/['table/list']"}
+{"question_id": "63692/['figure/diagram']"}
+{"question_id": "56469/['form']"}
+{"question_id": "58785/['form']"}
+{"question_id": "61164/['free_text']"}
+{"question_id": "4947/['layout']"}
+{"question_id": "37654/['layout']"}
+{"question_id": "15321/['free_text', 'layout']"}
+{"question_id": "45133/['free_text', 'layout']"}
+{"question_id": "6962/['form']"}
+{"question_id": "59344/['table/list']"}
+{"question_id": "50776/['table/list', 'layout']"}
+{"question_id": "28066/['table/list']"}
+{"question_id": "7590/['form']"}
+{"question_id": "62077/['table/list']"}
+{"question_id": "57986/['table/list']"}
+{"question_id": "64227/['layout']"}
+{"question_id": "63638/['free_text', 'layout']"}
+{"question_id": "63830/['figure/diagram']"}
+{"question_id": "2215/['table/list']"}
+{"question_id": "58540/['table/list']"}
+{"question_id": "52625/['free_text']"}
+{"question_id": "15057/['layout']"}
+{"question_id": "25714/['layout', 'others']"}
+{"question_id": "60974/['free_text', 'layout']"}
+{"question_id": "54458/['table/list']"}
+{"question_id": "57975/['table/list']"}
+{"question_id": "45747/['table/list']"}
+{"question_id": "47423/['layout']"}
+{"question_id": "50718/['form', 'layout']"}
+{"question_id": "47740/['form']"}
+{"question_id": "61498/['form']"}
+{"question_id": "59020/['table/list', 'layout']"}
+{"question_id": "57135/['free_text', 'layout']"}
+{"question_id": "5157/['table/list']"}
+{"question_id": "1014/['free_text']"}
+{"question_id": "60171/['layout']"}
+{"question_id": "62650/['layout', 'others']"}
+{"question_id": "60967/['layout', 'others']"}
+{"question_id": "6988/['form', 'layout']"}
+{"question_id": "45771/['table/list']"}
+{"question_id": "25729/['layout']"}
+{"question_id": "63700/['form']"}
+{"question_id": "39864/['table/list']"}
+{"question_id": "56394/['figure/diagram']"}
+{"question_id": "32871/['table/list']"}
+{"question_id": "56559/['layout']"}
+{"question_id": "58021/['table/list']"}
+{"question_id": "52372/['form']"}
+{"question_id": "56470/['handwritten', 'form']"}
+{"question_id": "55370/['table/list']"}
+{"question_id": "49532/['figure/diagram']"}
+{"question_id": "49629/['layout']"}
+{"question_id": "304/['table/list']"}
+{"question_id": "58536/['layout']"}
+{"question_id": "5168/['table/list']"}
+{"question_id": "5705/['handwritten', 'form', 'others']"}
+{"question_id": "1750/['free_text', 'layout']"}
+{"question_id": "62094/['table/list']"}
+{"question_id": "58397/['form']"}
+{"question_id": "60904/['table/list']"}
+{"question_id": "61349/['layout', 'others']"}
+{"question_id": "59804/['free_text', 'others']"}
+{"question_id": "7585/['form']"}
+{"question_id": "8117/['form']"}
+{"question_id": "56073/['free_text']"}
+{"question_id": "49123/['table/list']"}
+{"question_id": "61643/['figure/diagram']"}
+{"question_id": "45824/['table/list']"}
+{"question_id": "56359/['figure/diagram']"}
+{"question_id": "64910/['table/list']"}
+{"question_id": "38856/['layout']"}
+{"question_id": "57449/['layout']"}
+{"question_id": "56935/['layout']"}
+{"question_id": "64255/['free_text']"}
+{"question_id": "63875/['layout']"}
+{"question_id": "8120/['Yes/No', 'form']"}
+{"question_id": "40616/['form', 'layout']"}
+{"question_id": "60442/['layout']"}
+{"question_id": "58299/['layout']"}
+{"question_id": "64286/['table/list']"}
+{"question_id": "19216/['layout']"}
+{"question_id": "64895/['table/list']"}
+{"question_id": "5565/['free_text']"}
+{"question_id": "61786/['layout']"}
+{"question_id": "32998/['layout']"}
+{"question_id": "6831/['layout']"}
+{"question_id": "58801/['layout']"}
+{"question_id": "58427/['table/list']"}
+{"question_id": "410/['layout']"}
+{"question_id": "16456/['layout']"}
+{"question_id": "50528/['layout']"}
+{"question_id": "30236/['layout']"}
+{"question_id": "62076/['table/list']"}
+{"question_id": "42225/['handwritten', 'form']"}
+{"question_id": "61617/['table/list']"}
+{"question_id": "62280/['layout']"}
+{"question_id": "64930/['table/list']"}
+{"question_id": "42034/['table/list']"}
+{"question_id": "57276/['free_text']"}
+{"question_id": "37175/['free_text', 'layout']"}
+{"question_id": "60864/['table/list']"}
+{"question_id": "65333/['table/list']"}
+{"question_id": "60382/['free_text', 'layout']"}
+{"question_id": "63730/['table/list']"}
+{"question_id": "44128/['table/list']"}
+{"question_id": "46280/['layout']"}
+{"question_id": "63532/['table/list', 'layout']"}
+{"question_id": "59654/['layout']"}
+{"question_id": "63902/['table/list']"}
+{"question_id": "57902/['table/list']"}
+{"question_id": "55941/['layout']"}
+{"question_id": "395/['free_text']"}
+{"question_id": "4971/['form']"}
+{"question_id": "1025/['layout']"}
+{"question_id": "51003/['form']"}
+{"question_id": "55085/['free_text']"}
+{"question_id": "61403/['free_text', 'others']"}
+{"question_id": "64184/['table/list']"}
+{"question_id": "62972/['table/list']"}
+{"question_id": "52462/['table/list', 'layout']"}
+{"question_id": "1194/['layout']"}
+{"question_id": "19089/['layout']"}
+{"question_id": "62472/['table/list']"}
+{"question_id": "5825/['form']"}
+{"question_id": "61581/['table/list']"}
+{"question_id": "57786/['table/list']"}
+{"question_id": "60408/['free_text']"}
+{"question_id": "56788/['table/list']"}
+{"question_id": "57407/['table/list']"}
+{"question_id": "57300/['form']"}
+{"question_id": "47749/['form']"}
+{"question_id": "7016/['layout']"}
+{"question_id": "6787/['form']"}
+{"question_id": "65230/['table/list']"}
+{"question_id": "64220/['table/list']"}
+{"question_id": "63183/['table/list']"}
+{"question_id": "5525/['layout']"}
+{"question_id": "58443/['layout']"}
+{"question_id": "51786/['layout']"}
+{"question_id": "44773/['free_text', 'layout']"}
+{"question_id": "56780/['table/list']"}
+{"question_id": "63018/['table/list']"}
+{"question_id": "55272/['layout']"}
+{"question_id": "46622/['free_text']"}
+{"question_id": "16344/['free_text']"}
+{"question_id": "64681/['table/list']"}
+{"question_id": "9474/['form']"}
+{"question_id": "52467/['table/list', 'layout']"}
+{"question_id": "57403/['table/list']"}
+{"question_id": "5486/['form', 'table/list']"}
+{"question_id": "60468/['table/list']"}
+{"question_id": "56460/['handwritten', 'form', 'layout']"}
+{"question_id": "6973/['form']"}
+{"question_id": "45777/['layout']"}
+{"question_id": "46737/['table/list']"}
+{"question_id": "59441/['free_text']"}
+{"question_id": "55112/['table/list', 'layout']"}
+{"question_id": "41687/['free_text']"}
+{"question_id": "62401/['layout']"}
+{"question_id": "62505/['table/list', 'others']"}
+{"question_id": "64548/['table/list']"}
+{"question_id": "47530/['layout']"}
+{"question_id": "43222/['layout']"}
+{"question_id": "63717/['table/list']"}
+{"question_id": "54912/['table/list']"}
+{"question_id": "49617/['free_text']"}
+{"question_id": "55091/['layout']"}
+{"question_id": "56270/['table/list']"}
+{"question_id": "47572/['table/list']"}
+{"question_id": "58346/['table/list']"}
+{"question_id": "64322/['handwritten', 'form']"}
+{"question_id": "55189/['layout']"}
+{"question_id": "18564/['layout']"}
+{"question_id": "58673/['form']"}
+{"question_id": "49542/['layout']"}
+{"question_id": "58295/['layout']"}
+{"question_id": "58803/['table/list']"}
+{"question_id": "51724/['free_text']"}
+{"question_id": "49442/['layout']"}
+{"question_id": "16356/['free_text']"}
+{"question_id": "2291/['free_text']"}
+{"question_id": "47644/['free_text']"}
+{"question_id": "19218/['form', 'free_text', 'table/list']"}
+{"question_id": "56787/['table/list']"}
+{"question_id": "37370/['table/list']"}
+{"question_id": "36922/['form']"}
+{"question_id": "58544/['table/list']"}
+{"question_id": "60512/['free_text', 'table/list']"}
+{"question_id": "5172/['table/list']"}
+{"question_id": "59895/['form']"}
+{"question_id": "57964/['table/list']"}
+{"question_id": "38045/['table/list']"}
+{"question_id": "38965/['layout', 'others']"}
+{"question_id": "61566/['handwritten', 'form']"}
+{"question_id": "53990/['free_text', 'layout']"}
+{"question_id": "65156/['form']"}
+{"question_id": "60781/['layout']"}
+{"question_id": "5416/['table/list']"}
+{"question_id": "56825/['table/list']"}
+{"question_id": "51595/['layout']"}
+{"question_id": "5673/['form']"}
+{"question_id": "51587/['form', 'layout']"}
+{"question_id": "19145/['layout']"}
+{"question_id": "51541/['table/list']"}
+{"question_id": "18968/['handwritten', 'form']"}
+{"question_id": "62131/['layout']"}
+{"question_id": "49583/['form']"}
+{"question_id": "50840/['figure/diagram']"}
+{"question_id": "60784/['table/list']"}
+{"question_id": "46111/['free_text']"}
+{"question_id": "58428/['table/list']"}
+{"question_id": "37236/['others']"}
+{"question_id": "59491/['free_text']"}
+{"question_id": "63001/['handwritten', 'table/list']"}
+{"question_id": "54526/['layout']"}
+{"question_id": "32543/['table/list']"}
+{"question_id": "2295/['free_text']"}
+{"question_id": "36592/['table/list']"}
+{"question_id": "51289/['figure/diagram']"}
+{"question_id": "5465/['form', 'layout']"}
+{"question_id": "43804/['form']"}
+{"question_id": "53723/['form', 'others']"}
+{"question_id": "57243/['free_text']"}
+{"question_id": "50120/['form']"}
+{"question_id": "53588/['form']"}
+{"question_id": "24491/['layout']"}
+{"question_id": "39193/['layout']"}
+{"question_id": "52210/['layout']"}
+{"question_id": "65215/['table/list']"}
+{"question_id": "64167/['table/list']"}
+{"question_id": "59433/['form']"}
+{"question_id": "7486/['form']"}
+{"question_id": "54337/['table/list']"}
+{"question_id": "792/['free_text']"}
+{"question_id": "49057/['layout']"}
+{"question_id": "50838/['figure/diagram']"}
+{"question_id": "56523/['table/list']"}
+{"question_id": "25684/['free_text', 'layout', 'others']"}
+{"question_id": "62846/['table/list']"}
+{"question_id": "59978/['table/list']"}
+{"question_id": "51227/['layout']"}
+{"question_id": "63164/['layout']"}
+{"question_id": "63656/['layout']"}
+{"question_id": "15133/['table/list']"}
+{"question_id": "60470/['table/list']"}
+{"question_id": "16831/['form']"}
+{"question_id": "46311/['table/list']"}
+{"question_id": "49605/['table/list']"}
+{"question_id": "61761/['layout']"}
+{"question_id": "55463/['form']"}
+{"question_id": "59963/['table/list']"}
+{"question_id": "64136/['form']"}
+{"question_id": "39874/['table/list']"}
+{"question_id": "58570/['layout']"}
+{"question_id": "64152/['table/list']"}
+{"question_id": "265/['table/list']"}
+{"question_id": "53441/['form']"}
+{"question_id": "32886/['table/list']"}
+{"question_id": "29707/['table/list']"}
+{"question_id": "43164/['form']"}
+{"question_id": "18824/['layout']"}
+{"question_id": "64324/['handwritten', 'form']"}
+{"question_id": "56302/['form']"}
+{"question_id": "63666/['table/list']"}
+{"question_id": "47037/['layout']"}
+{"question_id": "59289/['Image/Photo']"}
+{"question_id": "43257/['table/list']"}
+{"question_id": "61157/['layout']"}
+{"question_id": "45132/['layout']"}
+{"question_id": "60722/['layout']"}
+{"question_id": "46506/['free_text']"}
+{"question_id": "61367/['free_text', 'others']"}
+{"question_id": "5435/['layout']"}
+{"question_id": "51660/['layout']"}
+{"question_id": "52515/['layout']"}
+{"question_id": "62324/['layout']"}
+{"question_id": "60466/['layout']"}
+{"question_id": "32874/['table/list']"}
+{"question_id": "17139/['form']"}
+{"question_id": "64768/['free_text']"}
+{"question_id": "5962/['handwritten', 'form']"}
+{"question_id": "52314/['layout']"}
+{"question_id": "60491/['layout']"}
+{"question_id": "63718/['table/list']"}
+{"question_id": "47709/['layout']"}
+{"question_id": "65167/['table/list']"}
+{"question_id": "65148/['layout', 'others']"}
+{"question_id": "64696/['layout']"}
+{"question_id": "62118/['layout']"}
+{"question_id": "57835/['layout']"}
+{"question_id": "53846/['form']"}
+{"question_id": "61165/['free_text']"}
+{"question_id": "3116/['form']"}
+{"question_id": "63787/['layout']"}
+{"question_id": "57171/['table/list']"}
+{"question_id": "59664/['Image/Photo']"}
+{"question_id": "58105/['layout']"}
+{"question_id": "59614/['layout', 'Image/Photo']"}
+{"question_id": "64171/['table/list', 'Image/Photo']"}
+{"question_id": "50299/['form']"}
+{"question_id": "47445/['layout']"}
+{"question_id": "49116/['layout']"}
+{"question_id": "60047/['free_text']"}
+{"question_id": "53537/['table/list', 'layout']"}
+{"question_id": "60749/['free_text', 'layout']"}
+{"question_id": "62526/['form']"}
+{"question_id": "56882/['table/list', 'others']"}
+{"question_id": "62515/['form']"}
+{"question_id": "49324/['layout']"}
+{"question_id": "2006/['free_text']"}
+{"question_id": "16830/['form']"}
+{"question_id": "61499/['handwritten', 'form']"}
+{"question_id": "63200/['layout']"}
+{"question_id": "4930/['handwritten', 'form']"}
+{"question_id": "16826/['free_text']"}
+{"question_id": "18581/['table/list']"}
+{"question_id": "59348/['table/list']"}
+{"question_id": "43167/['table/list']"}
+{"question_id": "24493/['form']"}
+{"question_id": "56411/['figure/diagram']"}
+{"question_id": "42222/['layout']"}
+{"question_id": "62507/['layout']"}
+{"question_id": "36984/['form']"}
+{"question_id": "55456/['free_text', 'table/list']"}
+{"question_id": "1171/['table/list']"}
+{"question_id": "57201/['table/list']"}
+{"question_id": "41749/['form']"}
+{"question_id": "6334/['handwritten', 'form']"}
+{"question_id": "55306/['table/list']"}
+{"question_id": "45432/['layout']"}
+{"question_id": "57766/['layout']"}
+{"question_id": "56429/['form']"}
+{"question_id": "60433/['form']"}
+{"question_id": "56960/['handwritten', 'layout']"}
+{"question_id": "43283/['free_text']"}
+{"question_id": "25681/['layout', 'others']"}
+{"question_id": "58678/['layout']"}
+{"question_id": "64491/['form', 'layout']"}
+{"question_id": "15139/['layout']"}
+{"question_id": "62799/['handwritten', 'form', 'layout']"}
+{"question_id": "62539/['layout']"}
+{"question_id": "64552/['figure/diagram']"}
+{"question_id": "43145/['form']"}
+{"question_id": "43125/['figure/diagram', 'layout']"}
+{"question_id": "1983/['table/list']"}
+{"question_id": "47993/['table/list']"}
+{"question_id": "50879/['layout']"}
+{"question_id": "43653/['layout']"}
+{"question_id": "59562/['free_text', 'layout']"}
+{"question_id": "43762/['layout']"}
+{"question_id": "60740/['layout']"}
+{"question_id": "5170/['table/list']"}
+{"question_id": "43118/['table/list']"}
+{"question_id": "47519/['form']"}
+{"question_id": "62535/['layout']"}
+{"question_id": "6968/['form']"}
+{"question_id": "63161/['layout']"}
+{"question_id": "58108/['layout']"}
+{"question_id": "1979/['form']"}
+{"question_id": "4946/['layout']"}
+{"question_id": "782/['layout']"}
+{"question_id": "58691/['layout']"}
+{"question_id": "49279/['layout']"}
+{"question_id": "54993/['form']"}
+{"question_id": "59571/['form']"}
+{"question_id": "11319/['table/list']"}
+{"question_id": "30434/['form']"}
+{"question_id": "58830/['layout']"}
+{"question_id": "60144/['table/list']"}
+{"question_id": "51252/['form', 'table/list', 'layout']"}
+{"question_id": "6959/['handwritten', 'form']"}
+{"question_id": "45076/['layout']"}
+{"question_id": "62522/['layout', 'others']"}
+{"question_id": "56833/['table/list']"}
+{"question_id": "32553/['table/list']"}
+{"question_id": "49574/['layout']"}
+{"question_id": "58811/['layout']"}
+{"question_id": "5593/['free_text']"}
+{"question_id": "21700/['table/list']"}
+{"question_id": "49129/['table/list']"}
+{"question_id": "56797/['table/list']"}
+{"question_id": "62293/['layout']"}
+{"question_id": "60971/['layout', 'others']"}
+{"question_id": "60398/['layout']"}
+{"question_id": "54490/['table/list']"}
+{"question_id": "56405/['free_text']"}
+{"question_id": "47453/['layout']"}
+{"question_id": "33153/['form']"}
+{"question_id": "4464/['figure/diagram', 'others']"}
+{"question_id": "55471/['free_text']"}
+{"question_id": "4445/['figure/diagram', 'layout']"}
+{"question_id": "10303/['handwritten', 'layout']"}
+{"question_id": "5598/['table/list']"}
+{"question_id": "28300/['layout']"}
+{"question_id": "2190/['table/list']"}
+{"question_id": "1627/['form']"}
+{"question_id": "3076/['table/list']"}
+{"question_id": "55104/['table/list']"}
+{"question_id": "64913/['free_text', 'layout']"}
+{"question_id": "57242/['layout']"}
+{"question_id": "50839/['figure/diagram']"}
+{"question_id": "24580/['others']"}
+{"question_id": "56297/['free_text']"}
+{"question_id": "16473/['layout']"}
+{"question_id": "37475/['table/list']"}
+{"question_id": "18999/['form']"}
+{"question_id": "58439/['free_text']"}
+{"question_id": "58696/['form']"}
+{"question_id": "59596/['form']"}
+{"question_id": "47874/['table/list']"}
+{"question_id": "36504/['layout']"}
+{"question_id": "47554/['layout']"}
+{"question_id": "237/['form']"}
+{"question_id": "65383/['layout']"}
+{"question_id": "52366/['layout']"}
+{"question_id": "47011/['figure/diagram']"}
+{"question_id": "60924/['handwritten', 'free_text']"}
+{"question_id": "56618/['layout']"}
+{"question_id": "4914/['handwritten', 'form']"}
+{"question_id": "47448/['form', 'layout']"}
+{"question_id": "56310/['figure/diagram']"}
+{"question_id": "60453/['free_text', 'layout']"}
+{"question_id": "63488/['layout']"}
+{"question_id": "59991/['form', 'table/list']"}
+{"question_id": "47545/['layout']"}
+{"question_id": "64480/['table/list']"}
+{"question_id": "59353/['table/list']"}
+{"question_id": "59653/['layout']"}
+{"question_id": "55442/['table/list']"}
+{"question_id": "56689/['table/list']"}
+{"question_id": "60510/['layout']"}
+{"question_id": "47813/['layout']"}
+{"question_id": "58829/['layout']"}
+{"question_id": "64673/['table/list']"}
+{"question_id": "63318/['free_text']"}
+{"question_id": "1024/['free_text', 'table/list']"}
+{"question_id": "64235/['table/list']"}
+{"question_id": "55094/['table/list']"}
+{"question_id": "5164/['table/list']"}
+{"question_id": "32546/['table/list']"}
+{"question_id": "45675/['free_text']"}
+{"question_id": "59709/['free_text', 'layout']"}
+{"question_id": "56602/['free_text']"}
+{"question_id": "58756/['table/list']"}
+{"question_id": "45068/['layout']"}
