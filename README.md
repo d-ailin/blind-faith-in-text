@@ -17,6 +17,7 @@ The evaluation data is available on [Hugging Face](https://huggingface.co/datase
 We provide the development code under the `raw_code` directory, which contains raw data and development scripts.  
 We will provide the evaluation code to process the Hugging Face dataset directly in a later update.
 
+
 ### Key Files and Steps
 
 - **Run test and generate output**
@@ -28,5 +29,12 @@ We will provide the evaluation code to process the Hugging Face dataset directly
     Open and run the following notebook:
     `raw_code/notebooks/performance_models.ipynb`
  
+## Model Checkpoints
+
+We provide the finetuned model checkpoints via [google drive link](https://drive.google.com/drive/folders/11gETrEJHnxYJWWVtLWBN60IkZ5jP9AoP).
+
+
+
+
 
 
