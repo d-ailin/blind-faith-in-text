@@ -10,11 +10,19 @@ from typing import Any
 import torch.nn.functional as F
 import torch
 
+
+# Import device utilities
+import sys
+import os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+from utils.device_utils import get_optimal_device
 class PhiAdapter(BaseAdapter):
     def __init__(self, model: str):
+        self.device = get_optimal_device()
         self.model = model
         # self.device = device
-        self.model = AutoModelForCausalLM.from_pretrained(model, device_map="cuda", trust_remote_code=True, torch_dtype="auto", _attn_implementation='flash_attention_2')
+        # Force device to CPU/CUDA only (no MPS due to compatibility issues)
+        self.model = AutoModelForCausalLM.from_pretrained(model, device_map={"": self.device}, trust_remote_code=True, torch_dtype="auto", _attn_implementation='flash_attention_2')
         
         if '3.5' in model:
             self.processor = AutoProcessor.from_pretrained(model, trust_remote_code=True, num_crops=16)
@@ -51,9 +59,9 @@ class PhiAdapter(BaseAdapter):
         prompt = self.processor.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
         if image is not None:
-            inputs = processor(prompt, [image], return_tensors="pt").to("cuda")
+            inputs = processor(prompt, [image], return_tensors="pt").to(self.device)
         else:
-            inputs = processor(prompt, return_tensors="pt").to("cuda")
+            inputs = processor(prompt, return_tensors="pt").to(self.device)
             
         outputs = self.model.generate(**inputs, eos_token_id=processor.tokenizer.eos_token_id, **self.generation_args) 
 

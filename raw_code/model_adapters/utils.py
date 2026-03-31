@@ -25,6 +25,7 @@ MODEL_LIST = [
     
     'HuggingFaceM4/idefics2-8b',
     'Qwen/Qwen2-VL-7B-Instruct',
+    'Qwen/Qwen3-VL-2B-Instruct',
     
     "meta-llama/Llama-3.2-11B-Vision-Instruct",
     'meta-llama/Llama-3.2-11B-Vision',

@@ -7,6 +7,12 @@ from typing import Optional, Any
 import torch
 
 
+
+# Import device utilities
+import sys
+import os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+from utils.device_utils import get_optimal_device
 from transformers import AutoTokenizer, AutoModel
 import torch
 import torchvision.transforms as T
@@ -104,22 +110,24 @@ def load_image_obj(image_obj, input_size=448, max_num=6):
 
 class InternvlAdapter(BaseAdapter):
     def __init__(
-        self, 
+        self,
         model: Optional[str] = None,
         device: Optional[str] = None,
-    ):        
+    ):
         if device is None:
-            self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
-            
+            self.device = get_optimal_device()
+        else:
+            self.device = device
+
         # self.image_holder = Image.open('images/image.jpg')
-        
+
         # path = "OpenGVLab/InternVL-Chat-V1-5"
-        # If you have an 80G A100 GPU, you can put the entire model on a single GPU.
+        # Force device to CPU/CUDA only (no MPS due to compatibility issues)
         self.model = AutoModel.from_pretrained(
             model,
             torch_dtype=torch.bfloat16,
             low_cpu_mem_usage=True,
-            trust_remote_code=True).eval().cuda()
+            trust_remote_code=True).eval().to(self.device)
         # Otherwise, you need to set device_map='auto' to use multiple GPUs for inference.
         # model = AutoModel.from_pretrained(
         #     path,
@@ -150,11 +158,11 @@ class InternvlAdapter(BaseAdapter):
         # pixel_values = pixel_values.to(torch.bfloat16).cuda()
         
         if image is not None:
-            
-            pixel_values = load_image_obj(image, max_num=6).to(torch.bfloat16).cuda()
-        
+
+            pixel_values = load_image_obj(image, max_num=6).to(torch.bfloat16).to(self.device)
+
         elif image_path is not None:
-            pixel_values = load_image(image_path, max_num=6).to(torch.bfloat16).cuda()
+            pixel_values = load_image(image_path, max_num=6).to(torch.bfloat16).to(self.device)
             
         else:
             pixel_values = None

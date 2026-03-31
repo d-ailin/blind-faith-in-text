@@ -10,33 +10,40 @@ from typing import Any
 import torch.nn.functional as F
 import torch
 
+
+# Import device utilities
+import sys
+import os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+from utils.device_utils import get_optimal_device
 class MolmoAdapter(BaseAdapter):
     def __init__(self, model: str):
+        self.device = get_optimal_device()
         # self.model = model
         # # self.device = device
         # self.model = AutoModelForCausalLM.from_pretrained(model, device_map="cuda", trust_remote_code=True, torch_dtype="auto")
-        
+
         # if '3.5' in model:
         #     self.processor = AutoProcessor.from_pretrained(model, trust_remote_code=True, num_crops=16)
         # else:
-        #     self.processor = AutoProcessor.from_pretrained(model, trust_remote_code=True) 
-            
+        #     self.processor = AutoProcessor.from_pretrained(model, trust_remote_code=True)
+
         # load the processor
         self.processor = AutoProcessor.from_pretrained(
             model,
             trust_remote_code=True,
             torch_dtype='auto',
-            device_map='auto'
+            device_map={"": self.device}
         )
 
-        # load the model
+        # load the model - Force device to CPU/CUDA only (no MPS due to compatibility issues)
         self.model = AutoModelForCausalLM.from_pretrained(
             model,
             trust_remote_code=True,
             # torch_dtype='auto',
             torch_dtype=torch.bfloat16,
             low_cpu_mem_usage=True,
-            device_map='auto'
+            device_map={"": self.device}
         )
 
         # to reduce the memory usage
@@ -69,9 +76,9 @@ class MolmoAdapter(BaseAdapter):
         # prompt = self.processor.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
         # if image is not None:
-        #     inputs = processor(prompt, [image], return_tensors="pt").to("cuda")
+        #     inputs = processor(prompt, [image], return_tensors="pt").to(self.device)
         # else:
-        #     inputs = processor(prompt, return_tensors="pt").to("cuda")
+        #     inputs = processor(prompt, return_tensors="pt").to(self.device)
         
         if image is not None:
             inputs = processor.process(
@@ -85,7 +92,11 @@ class MolmoAdapter(BaseAdapter):
         inputs = {k: v.to(self.model.device).unsqueeze(0) for k, v in inputs.items()}
 
 
-        with torch.autocast(device_type="cuda", enabled=True, dtype=torch.bfloat16): # for efficient inference
+        # Use autocast only for CUDA, skip for CPU
+        if self.device == "cuda":
+            with torch.autocast(device_type="cuda", enabled=True, dtype=torch.bfloat16): # for efficient inference
+                outputs = self.model.generate_from_batch(inputs, GenerationConfig(**self.generation_args), tokenizer=processor.tokenizer, )
+        else:
             outputs = self.model.generate_from_batch(inputs, GenerationConfig(**self.generation_args), tokenizer=processor.tokenizer, ) 
 
         generate_ids = outputs.sequences

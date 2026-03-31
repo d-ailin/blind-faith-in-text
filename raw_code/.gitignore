@@ -1,0 +1,4 @@
+.vscode/
+_env.sh
+analysis_outputs/
+results/

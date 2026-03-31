@@ -1,0 +1,25 @@
+# Minimal pip requirements for running `raw_code/hf_evaluator.py` and repo eval utilities
+# Install in your conda env with: pip install -r raw_code/requirements.txt
+
+datasets
+transformers
+openai
+numpy
+tqdm
+Pillow
+# torch
+# torchvision
+rouge
+python-Levenshtein
+editdistance
+regex
+nltk
+litellm
+anthropic
+xgboost
+accelerate
+
+# Optional (only needed for adapter / multimodal backends in this repo)
+# vllm
+# litellm
+# lit-llama or other specific model packages

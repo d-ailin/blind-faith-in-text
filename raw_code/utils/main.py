@@ -1,7 +1,7 @@
 from litellm import completion
-from vllm import LLM, SamplingParams
+# from vllm import LLM, SamplingParams
 import time
-from vllm.multimodal.image import ImageFeatureData, ImagePixelData
+# from vllm.multimodal.image import ImageFeatureData, ImagePixelData
 
 def encode_image_path(image_path):
     import base64
@@ -67,9 +67,11 @@ class QueryModel:
             self.adapter = MolmoAdapter(model=model_name)
         elif 'claude' in model_name.lower():
             self.adapter = ClaudeAdapter(model=model_name)
-        elif 'qwen' in model_name.lower():
+        elif 'qwen2' in model_name.lower():
             self.adapter = Qwen2VLAdapter(model=model_name)
-    
+        elif 'qwen3' in model_name.lower():
+            self.adapter = Qwen3VLAdapter(model=model_name)
+
 
     def query(self, text, query_config=None, image=None, image_path=None, **kwargs):
         model_name = self.model_name

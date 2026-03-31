@@ -9,3 +9,4 @@ from .molmo_adapter import MolmoAdapter
 from .claude_adapter import ClaudeAdapter
 from .idefics2_adapter import Idefics2Adapter
 from .qwen2_vl_adapter import Qwen2VLAdapter
+from .qwen3_vl_adapter import Qwen3VLAdapter

@@ -2,7 +2,7 @@ from PIL import Image
 import requests
 from transformers import AutoModelForCausalLM
 from transformers import AutoProcessor
-from transformers import Qwen2VLForConditionalGeneration
+from transformers import Qwen3VLForConditionalGeneration
 
 
 from model_adapters import BaseAdapter
@@ -18,20 +18,17 @@ import os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 from utils.device_utils import get_optimal_device
 
-class Qwen2VLAdapter(BaseAdapter):
+class Qwen3VLAdapter(BaseAdapter):
     def __init__(self, model: str):
         self.model_name = model
         self.device = get_optimal_device()
 
         # Force device to CPU/CUDA only (no MPS due to compatibility issues)
-        self.model = Qwen2VLForConditionalGeneration.from_pretrained(
-            model,
-            trust_remote_code=True,
-            torch_dtype="auto",
-            low_cpu_mem_usage=True,
-            device_map={"": self.device}
-        )
-
+        self.model = Qwen3VLForConditionalGeneration.from_pretrained(model, trust_remote_code=True,
+                                                                     torch_dtype="auto",
+                                                                    #  torch_dtype=torch.bfloat16,
+                                                                    low_cpu_mem_usage=True,
+                                                                     device_map={"": self.device})
         min_pixels = 256*28*28
         max_pixels = 1280*28*28
         self.processor = AutoProcessor.from_pretrained(model, trust_remote_code=True, min_pixels=min_pixels, max_pixels=max_pixels) 
