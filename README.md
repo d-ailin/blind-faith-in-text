@@ -94,11 +94,9 @@ We provide the finetuned model checkpoints via [Google Drive](https://drive.goog
 
 ## Analysis
 
-After running evaluation, open the following notebook to analyze the results across models and conditions. It computes accuracy for each text-type condition, calculates text ratios (the degree to which a model follows text vs. image), and generates bar plots comparing models side by side:
+After running evaluation, the following notebook reproduces the paper's analysis — computing accuracy per condition, text ratios, and comparative bar plots across models:
 
-```
-raw_code/notebooks/analyze_text_ratios.ipynb
-```
+[`raw_code/notebooks/analyze_text_ratios.ipynb`](raw_code/notebooks/analyze_text_ratios.ipynb)
 
 --------
 
